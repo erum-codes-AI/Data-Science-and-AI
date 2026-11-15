@@ -1,0 +1,1216 @@
+house_id,location,area_marla,bedrooms,bathrooms,floors,house_age,condition,garage,corner_plot,near_main_road,listed_year,price_lakh,price_per_marla
+SKR-1446,Bunder Road,10.0,3,2.0,2,20.0,Poor,No,Yes,No,2025,148.7,14.87
+SKR-1290,Old Sukkur,6.0,3,3.0,1,7.0,Good,No,No,Yes,2026,67.2,11.2
+SKR-1569,Shikarpur Road,5.0,2,1.0,1,30.0,Average,No,Yes,No,2024,37.7,7.54
+SKR-1180,Barrage Colony,3.0,1,1.0,2,7.0,Good,Yes,No,Yes,2026,67.0,22.33
+SKR-2035,Old Sukkur,3.0,2,1.0,2,9.0,Average,No,No,No,2025,25.8,8.6
+SKR-1921,Barrage Colony,5.0,3,3.0,2,13.0,Average,No,No,Yes,2024,81.5,16.3
+SKR-1047,Shikarpur Road,7.0,3,2.0,2,5.0,Excellent,No,No,No,2026,91.6,13.09
+SKR-1345,Old Sukkur,5.0,3,2.0,1,4.0,Good,No,No,No,2024,43.8,8.76
+SKR-1421,Military Road,6.0,3,3.0,2,22.0,Poor,No,No,No,2026,99.4,16.57
+SKR-1953,Barrage Colony,5.0,2,1.0,2,3.0,Good,Yes,No,No,2024,83.5,16.7
+SKR-1190,Barrage Colony,8.0,4,,2,,Good,Yes,Yes,No,2024,138.3,17.29
+SKR-1618,Old Sukkur,20.0,8,8.0,2,,Average,Yes,No,Yes,2024,148.2,7.41
+SKR-2129,Shikarpur Road,3.0,1,1.0,1,9.0,,No,No,No,2025,31.4,10.47
+SKR-1306,Barrage Colony,3.0,1,1.0,2,35.0,Average,No,Yes,No,2025,33.8,11.27
+SKR-1973,Old Sukkur,5.0,3,2.0,2,22.0,Good,No,No,No,2025,45.5,9.1
+SKR-1669,Rohri,6.0,3,3.0,1,19.0,Poor,No,Yes,Yes,2025,44.3,7.38
+SKR-1642,Barrage Colony,5.0,4,4.0,1,9.0,Good,Yes,Yes,Yes,2024,92.6,18.52
+SKR-1455,Barrage Colony,5.0,3,2.0,1,19.0,Average,No,No,No,2024,63.3,12.66
+SKR-2058,Shikarpur Road,6.0,3,3.0,1,30.0,Average,No,Yes,No,2026,60.8,10.13
+SKR-1834,Bunder Road,10.0,5,5.0,2,13.0,Average,Yes,No,No,2025,182.3,18.23
+SKR-1968,Military Road,4.0,2,1.0,1,16.0,Average,No,No,No,2025,54.8,13.7
+SKR-1052,Barrage Colony,5.0,2,2.0,1,15.0,Average,No,No,No,2024,59.5,11.9
+SKR-2027,Shikarpur Road,15.0,5,5.0,2,17.0,Average,Yes,No,No,2026,154.3,10.29
+SKR-1643,Bunder Road,8.0,5,4.0,2,15.0,Average,Yes,No,Yes,2024,182.7,22.84
+SKR-1064,Military Road,6.0,2,1.0,1,25.0,Poor,No,No,No,2026,69.1,11.52
+SKR-1854,Barrage Colony,6.0,3,2.0,2,4.0,Excellent,No,No,Yes,2025,105.8,17.63
+SKR-2098,Military Road,10.0,4,,2,10.0,Average,Yes,No,Yes,2025,171.3,17.13
+SKR-1493,Old Sukkur,5.0,2,2.0,2,11.0,Average,No,No,No,2025,47.9,9.58
+SKR-1173,Airport Road,5.0,3,2.0,2,14.0,Poor,No,No,Yes,2026,69.7,13.94
+SKR-1206,Old Sukkur,3.0,1,1.0,1,21.0,Good,Yes,No,No,2026,34.4,11.47
+SKR-1501,Old Sukkur,5.0,4,3.0,2,44.0,Average,Yes,No,Yes,2024,49.4,9.88
+SKR-2173,Old Sukkur,5.0,3,2.0,1,3.0,Good,Yes,Yes,Yes,2025,67.2,13.44
+SKR-1774, Airport Road ,10.0,4,3.0,2,3.0,Good,Yes,Yes,No,2025,156.7,15.67
+SKR-1035,Barrage Colony,6.0,2,1.0,2,5.0,Excellent,Yes,No,No,2026,111.4,18.57
+SKR-1714,Rohri,12.0,5,5.0,2,7.0,Good,Yes,No,No,2025,119.8,9.98
+SKR-1114,Military Road,5.0,1,1.0,2,8.0,Good,No,No,Yes,2025,98.1,19.62
+SKR-1641,Old Sukkur,6.0,3,2.0,2,14.0,Good,Yes,No,No,2024,56.4,9.4
+SKR-1738,Shikarpur Road,7.0,2,2.0,1,11.0,Average,No,Yes,No,2026,76.6,10.94
+SKR-1221,Airport Road,3.0,2,2.0,2,8.0,Average,No,No,Yes,2026,44.3,14.77
+SKR-1908,Rohri,6.0,4,3.0,2,4.0,Average,Yes,No,No,2025,58.0,9.67
+SKR-2151,Airport Road,5.0,2,2.0,1,5.0,Good,Yes,No,Yes,2024,78.6,15.72
+SKR-1805,Bunder Road,15.0,6,5.0,2,3.0,Good,Yes,No,No,2025,352.3,23.49
+SKR-2094,Barrage Colony,5.0,2,1.0,2,16.0,Average,Yes,No,Yes,2024,71.9,14.38
+SKR-2136,Military Road,8.0,3,3.0,1,7.0,,No,No,No,2024,128.9,16.11
+SKR-1232,Bunder Road,12.0,5,4.0,1,16.0,Poor,Yes,No,Yes,2025,201.0,16.75
+SKR-2176,Bunder Road,5.0,1,,2,19.0,Average,No,No,No,2026,88.9,17.78
+SKR-1747,Old Sukkur,4.0,2,2.0,1,30.0,Poor,Yes,Yes,Yes,2025,39.9,9.98
+SKR-1352,Old Sukkur,5.0,2,2.0,2,23.0,,No,No,No,2026,41.5,8.3
+SKR-1778,Airport Road,12.0,6,5.0,1,1.0,Good,Yes,No,No,2025,186.6,15.55
+SKR-1579,Military Road,8.0,3,3.0,1,,Poor,No,No,Yes,2025,101.3,12.66
+SKR-1400,Shikarpur Road,6.0,2,1.0,1,5.0,Good,No,No,No,2024,51.3,8.55
+SKR-1378,Barrage Colony,3.0,1,1.0,1,7.0,Good,No,No,No,2025,46.9,15.63
+SKR-1996,Shikarpur Road,10.0,3,2.0,1,16.0,Poor,Yes,No,Yes,2024,92.8,9.28
+SKR-1326,Old Sukkur,8.0,3,2.0,3,6.0,Good,No,No,No,2026,79.2,9.9
+SKR-1458,Old Sukkur,20.0,7,7.0,1,5.0,Average,Yes,No,No,2025,184.2,9.21
+SKR-1896,Old Sukkur,20.0,8,7.0,2,1.0,Excellent,Yes,No,Yes,2026,259.9,13.0
+SKR-1656,Bunder Road,8.0,2,2.0,2,10.0,Good,Yes,No,Yes,2025,183.9,22.99
+SKR-2110,Bunder Road,6.0,3,2.0,1,1.0,Good,Yes,No,No,2025,137.1,22.85
+SKR-1147,Military Road,6.0,2,2.0,2,16.0,Good,No,No,Yes,2026,111.9,18.65
+SKR-1187,Old Sukkur,5.0,2,2.0,1,12.0,Average,No,No,Yes,2025,50.4,10.08
+SKR-1651,Old Sukkur,10.0,4,4.0,3,16.0,Excellent,Yes,Yes,No,2024,122.3,12.23
+SKR-1110,Barrage Colony,5.0,3,3.0,1,11.0,Good,Yes,No,No,2025,83.8,16.76
+SKR-1634,Shikarpur Road,5.0,3,3.0,2,4.0,Good,Yes,Yes,Yes,2025,82.6,16.52
+SKR-1359,Bunder Road,10.0,5,5.0,2,26.0,Average,No,No,No,2024,161.2,16.12
+SKR-1271,Military Road,7.0,3,3.0,2,5.0,Good,Yes,No,No,2025,138.5,19.79
+SKR-1978,Barrage Colony,15.0,6,6.0,3,25.0,Average,Yes,No,No,2024,202.5,13.5
+SKR-1919,Shikarpur Road,5.0,2,1.0,2,16.0,Average,No,No,No,2024,49.0,9.8
+SKR-1869,Military Road,5.0,4,4.0,2,5.0,Poor,No,No,No,2026,87.6,17.52
+SKR-1205,Old Sukkur,7.0,4,4.0,2,11.0,Excellent,No,Yes,Yes,2026,107.3,15.33
+SKR-1102,Military Road,15.0,4,3.0,2,2.0,Average,Yes,No,No,2026,288.4,19.23
+SKR-2050,Rohri,10.0,5,4.0,1,9.0,,Yes,No,Yes,2025,99.7,9.97
+SKR-1099,Bunder Road,8.0,4,3.0,1,11.0,,Yes,No,No,2024,143.9,17.99
+SKR-1565,Barrage Colony,5.0,2,,2,14.0,Average,Yes,No,Yes,2026,90.5,18.1
+SKR-2183,Barrage Colony,8.0,3,3.0,2,,Average,No,No,No,2026,144.2,18.02
+SKR-2157,Bunder Road,12.0,5,4.0,2,15.0,Average,Yes,No,No,2026,249.8,20.82
+SKR-1010,Barrage Colony,8.0,3,2.0,2,3.0,Good,No,No,Yes,2026,149.3,18.66
+SKR-1054,Airport Road,8.0,4,3.0,1,5.0,Good,Yes,No,Yes,2025,113.9,14.24
+SKR-1225,Airport Road,7.0,3,2.0,1,8.0,Good,Yes,No,No,2026,104.7,14.96
+SKR-2152, Shikarpur Road ,3.0,2,1.0,1,8.0,Good,No,Yes,No,2026,39.4,13.13
+SKR-1265,Shikarpur Road,10.0,4,3.0,2,18.0,Good,No,No,No,2025,109.3,10.93
+SKR-2053,Rohri,10.0,4,4.0,3,3.0,Good,Yes,No,No,2024,100.8,10.08
+SKR-1611,Rohri,15.0,5,5.0,2,23.0,Average,Yes,No,No,2026,114.4,7.63
+SKR-1645,Bunder Road,10.0,4,4.0,2,6.0,Good,No,No,Yes,2025,237.2,23.72
+SKR-1604,Barrage Colony,15.0,6,5.0,2,4.0,Excellent,Yes,No,No,2025,334.8,22.32
+SKR-1494,Shikarpur Road,5.0,3,3.0,1,10.0,Good,Yes,No,No,2024,63.7,12.74
+SKR-2038,Military Road,3.0,3,3.0,1,4.0,Average,No,Yes,Yes,2024,56.8,18.93
+SKR-1751,Shikarpur Road,4.0,3,3.0,1,10.0,Average,No,No,No,2025,49.1,12.28
+SKR-2087,Barrage Colony,8.0,3,3.0,2,15.0,Average,Yes,No,No,2025,124.9,15.61
+SKR-1670,Bunder Road,10.0,4,3.0,2,11.0,Excellent,Yes,No,Yes,2024,237.0,23.7
+SKR-1380,Shikarpur Road,5.0,3,3.0,2,4.0,Good,Yes,No,Yes,2025,75.2,15.04
+SKR-2014,Old Sukkur,4.0,2,2.0,1,8.0,Average,No,No,No,2025,35.1,8.78
+SKR-1375,Rohri,10.0,3,3.0,2,8.0,Average,Yes,Yes,No,2024,102.2,10.22
+SKR-2021,Barrage Colony,3.0,2,1.0,2,5.0,Average,No,No,No,2026,42.4,14.13
+SKR-1217,Bunder Road,6.0,4,3.0,1,10.0,Poor,No,No,No,2025,97.0,16.17
+SKR-1279,Barrage Colony,10.0,4,4.0,2,13.0,Excellent,Yes,No,No,2025,181.9,18.19
+SKR-1558,Bunder Road,6.0,3,3.0,2,6.0,Good,No,No,No,2025,130.5,21.75
+SKR-1253,Military Road,6.0,2,1.0,1,2.0,Poor,No,No,No,2026,81.4,13.57
+SKR-2017,Shikarpur Road,10.0,3,2.0,2,5.0,Poor,Yes,No,No,2024,98.6,9.86
+SKR-1273,Rohri,5.0,2,1.0,1,5.0,Average,No,Yes,No,2025,40.3,8.06
+SKR-1208,Bunder Road,5.0,2,2.0,1,17.0,Average,No,No,Yes,2026,90.1,18.02
+SKR-1811,Barrage Colony,5.0,2,2.0,1,5.0,Average,No,No,Yes,2026,87.1,17.42
+SKR-1566,Airport Road,10.0,6,6.0,2,9.0,Good,No,No,No,2026,180.0,18.0
+SKR-1084,military road,6.0,3,2.0,2,14.0,Good,Yes,No,No,2026,126.0,21.0
+SKR-1514,Bunder Road,4.0,3,3.0,1,5.0,Good,No,No,No,2026,81.5,20.38
+SKR-1055,Airport Road,4.0,3,3.0,1,9.0,Poor,No,Yes,Yes,2025,61.2,15.3
+SKR-1955,Barrage Colony,7.0,3,3.0,2,2.0,Excellent,Yes,No,No,2025,148.3,21.19
+SKR-1653,Airport Road,7.0,3,2.0,2,2.0,Good,Yes,No,Yes,2024,109.3,15.61
+SKR-1142,Barrage Colony,4.0,2,2.0,1,10.0,Excellent,No,No,No,2025,67.7,16.92
+SKR-2131,Old Sukkur,10.0,3,3.0,2,4.0,Excellent,Yes,No,No,2024,119.2,11.92
+SKR-1661,Airport Road,5.0,3,2.0,2,1.0,Average,Yes,No,No,2024,78.8,15.76
+SKR-1570,Rohri,15.0,6,5.0,2,11.0,Good,Yes,Yes,Yes,2025,155.7,10.38
+SKR-1587,Military Road,7.0,2,2.0,3,4.0,Good,No,No,No,2025,129.9,18.56
+SKR-1427,Barrage Colony,4.0,2,1.0,2,3.0,Average,No,Yes,No,2024,60.5,15.12
+SKR-2196,Old Sukkur,4.0,3,2.0,1,18.0,Good,No,No,Yes,2024,38.1,9.52
+SKR-1682,Airport Road,3.0,2,2.0,1,8.0,Good,No,Yes,No,2024,44.9,14.97
+SKR-1152,Barrage Colony,5.0,4,3.0,1,6.0,Good,Yes,No,No,2024,86.0,17.2
+SKR-1410,Old Sukkur,10.0,5,5.0,2,9.0,Good,Yes,Yes,No,2024,107.0,10.7
+SKR-1563,Bunder Road,12.0,5,5.0,2,13.0,Average,Yes,No,No,2024,188.2,15.68
+SKR-1433,Military Road,5.0,3,2.0,2,13.0,Poor,No,No,Yes,2024,68.7,13.74
+SKR-1041,Shikarpur Road,10.0,3,2.0,2,2.0,Excellent,Yes,Yes,Yes,2026,162.6,16.26
+SKR-1286,Old Sukkur,5.0,3,3.0,1,13.0,Good,Yes,No,Yes,2024,53.9,10.78
+SKR-1013,Shikarpur Road,7.0,3,2.0,2,17.0,Excellent,No,No,Yes,2026,98.2,14.03
+SKR-1098,Rohri,10.0,5,4.0,1,6.0,Average,Yes,Yes,No,2024,72.0,7.2
+SKR-1668,Rohri,7.0,4,3.0,3,4.0,Good,Yes,No,No,2024,79.3,11.33
+SKR-1701,Barrage Colony,8.0,3,2.0,1,7.0,Average,No,No,Yes,2024,114.1,14.26
+SKR-1129,Airport Road,7.0,4,4.0,3,20.0,Average,No,No,Yes,2026,123.3,17.61
+SKR-1485,Military Road,5.0,2,,2,8.0,Good,No,No,No,2024,82.2,16.44
+SKR-1770,Shikarpur Road,8.0,3,2.0,1,15.0,,Yes,No,No,2026,79.7,9.96
+SKR-1542,Old Sukkur,10.0,3,2.0,2,19.0,Average,Yes,No,No,2026,97.9,9.79
+SKR-1598,Barrage Colony,8.0,4,3.0,2,10.0,Good,No,No,No,2024,101.5,12.69
+SKR-2180,Barrage Colony,10.0,4,4.0,2,5.0,Average,Yes,Yes,No,2025,173.4,17.34
+SKR-1709,Airport Road,6.0,4,3.0,1,2.0,Good,No,No,No,2026,101.3,16.88
+SKR-1264,Old Sukkur,6.0,3,3.0,2,11.0,Average,Yes,Yes,Yes,2024,67.6,11.27
+SKR-1549,Airport Road,15.0,6,6.0,2,23.0,Average,Yes,No,No,2026,214.9,14.33
+SKR-2042,Shikarpur Road,20.0,6,,2,3.0,Poor,No,No,Yes,2024,174.8,8.74
+SKR-1858,Old Sukkur,3.0,2,,1,14.0,Average,No,Yes,No,2024,28.0,9.33
+SKR-2083,Airport Rd,10.0,4,3.0,3,13.0,Average,Yes,No,No,2025,161.2,16.12
+SKR-1910,Rohri,10.0,4,4.0,2,6.0,Average,No,No,No,2024,69.8,6.98
+SKR-1743,Old Sukkur,5.0,2,1.0,2,4.0,Poor,Yes,Yes,No,2026,54.7,10.94
+SKR-1842,Airport Road,5.0,3,3.0,1,18.0,Excellent,No,No,Yes,2025,79.4,15.88
+SKR-2114,Shikarpur Road,7.0,3,3.0,3,9.0,Average,Yes,Yes,No,2026,111.1,15.87
+SKR-2018,Military Road,10.0,4,4.0,1,7.0,Average,No,No,No,2025,153.9,15.39
+SKR-1839,Shikarpur Road,5.0,2,1.0,2,5.0,Good,No,No,No,2024,54.4,10.88
+SKR-1018,Barrage Colony,5.0,3,3.0,2,30.0,Average,No,No,Yes,2024,63.4,12.68
+SKR-1524,Shikarpur Road,6.0,4,3.0,1,16.0,Good,No,No,Yes,2024,64.0,10.67
+SKR-1171,Bunder Road,15.0,6,5.0,1,6.0,Average,Yes,No,Yes,2025,290.3,19.35
+SKR-1756,Military Road,5.0,2,1.0,1,12.0,Average,No,Yes,Yes,2025,90.5,18.1
+SKR-2103,Barrage Colony,8.0,3,3.0,2,22.0,Average,Yes,Yes,No,2024,127.7,15.96
+SKR-1116,Military Road,12.0,4,4.0,3,37.0,Poor,Yes,No,No,2025,154.2,12.85
+SKR-1254,Rohri,5.0,3,2.0,1,13.0,Average,No,No,No,2026,40.8,8.16
+SKR-2101,Airport Road,5.0,3,2.0,1,3.0,Average,No,No,Yes,2026,69.2,13.84
+SKR-1141,Shikarpur Road,5.0,2,1.0,2,20.0,Average,No,No,No,2024,44.6,8.92
+SKR-1871,Old Sukkur,5.0,4,3.0,1,8.0,Good,No,No,No,2025,55.8,11.16
+SKR-1772,Old Sukkur,7.0,4,3.0,2,19.0,Average,Yes,No,No,2024,69.4,9.91
+SKR-1368,Military Road,4.0,1,1.0,1,23.0,Poor,No,No,No,2026,42.4,10.6
+SKR-1557,Shikarpur Road,10.0,5,4.0,2,11.0,Good,Yes,No,No,2025,130.0,13.0
+SKR-1386,Barrage Colony,4.0,3,2.0,2,5.0,Good,No,No,No,2025,68.5,17.12
+SKR-1620,Military Road,6.0,2,1.0,1,18.0,Excellent,No,No,No,2025,92.5,15.42
+SKR-1545,Old Sukkur,3.0,2,2.0,1,7.0,Average,No,Yes,No,2024,30.3,10.1
+SKR-1889,Shikarpur Road,4.0,2,2.0,2,8.0,Good,No,No,Yes,2025,52.9,13.22
+SKR-1109,Shikarpur Road,15.0,6,6.0,1,2.0,Average,Yes,No,Yes,2024,146.0,9.73
+SKR-1985,Bunder Road,5.0,2,2.0,1,5.0,Good,No,No,No,2024,90.5,18.1
+SKR-1281,Old Sukkur,6.0,3,2.0,1,7.0,Average,Yes,No,No,2025,54.9,9.15
+SKR-1981,Rohri,8.0,4,4.0,1,18.0,Average,No,No,No,2026,59.2,7.4
+SKR-1100,Shikarpur Road,15.0,5,4.0,1,27.0,Average,Yes,Yes,No,2024,134.8,8.99
+SKR-1736,Barrage Colony,6.0,3,2.0,1,10.0,Good,No,No,No,2024,85.2,14.2
+SKR-1637,Shikarpur Road,7.0,2,1.0,1,,Good,No,No,No,2025,74.0,10.57
+SKR-1535,Old Sukkur,6.0,3,3.0,1,19.0,Poor,Yes,No,No,2024,53.9,8.98
+SKR-1664,Barrage Colony,4.0,2,1.0,1,12.0,Average,Yes,Yes,Yes,2025,63.6,15.9
+SKR-1852,Rohri,8.0,3,2.0,3,3.0,Good,No,No,No,2025,81.6,10.2
+SKR-1472,Shikarpur Road,8.0,3,2.0,2,16.0,Average,No,No,No,2025,76.2,9.52
+SKR-1397,Bunder Road,10.0,4,4.0,1,5.0,Good,Yes,No,No,2024,193.3,19.33
+SKR-1867,Old Sukkur,15.0,5,5.0,1,37.0,Average,Yes,No,Yes,2024,100.0,6.67
+SKR-1913,Old Sukkur,10.0,4,4.0,2,17.0,Average,Yes,No,No,2025,104.0,10.4
+SKR-1340,Rohri,3.0,2,1.0,1,4.0,Excellent,No,No,No,2025,27.1,9.03
+SKR-1882,Shikarpur Road,5.0,2,2.0,2,9.0,Good,Yes,No,No,2025,65.5,13.1
+SKR-1987,Military Road,8.0,5,4.0,1,2.0,Excellent,Yes,Yes,No,2025,186.3,23.29
+SKR-2104,Old Sukkur,15.0,6,6.0,2,8.0,Good,Yes,Yes,No,2026,167.8,11.19
+SKR-1432,Military Road,5.0,3,2.0,1,26.0,Average,No,No,Yes,2026,81.7,16.34
+SKR-1024,Military Road,5.0,3,3.0,1,7.0,Good,Yes,Yes,No,2026,109.0,21.8
+SKR-2020,Rohri,5.0,3,3.0,1,37.0,,Yes,No,No,2025,43.0,8.6
+SKR-1768,Rohri,5.0,3,3.0,1,14.0,Excellent,No,No,Yes,2026,50.7,10.14
+SKR-1504,Barrage Colony,3.0,3,2.0,2,14.0,Excellent,No,No,Yes,2024,54.0,18.0
+SKR-1878,Old Sukkur,7.0,4,3.0,2,4.0,Good,No,No,No,2026,75.1,10.73
+SKR-1956,Military Road,4.0,1,1.0,2,13.0,Average,Yes,Yes,Yes,2024,72.9,18.23
+SKR-1914,Barrage Colony,4.0,2,1.0,2,19.0,Good,No,No,No,2025,61.7,15.42
+SKR-1124,Barrage Colony,10.0,4,3.0,1,17.0,Average,Yes,Yes,No,2024,126.1,12.61
+SKR-2167,Barrage Colony,4.0,3,3.0,1,24.0,Poor,No,No,No,2025,53.9,13.48
+SKR-1793,Airport Road,7.0,3,2.0,1,2.0,Average,No,Yes,No,2025,93.4,13.34
+SKR-1499,Military Road,3.0,2,2.0,1,4.0,Average,No,No,No,2024,47.8,15.93
+SKR-1523,Rohri,10.0,4,4.0,1,24.0,Average,Yes,No,Yes,2026,83.5,8.35
+SKR-2074,Old Sukkur,4.0,2,2.0,1,5.0,Good,No,No,Yes,2024,35.2,8.8
+SKR-2187,Rohri,5.0,3,3.0,2,16.0,Average,No,No,Yes,2026,49.7,9.94
+SKR-1229,Airport Road,12.0,4,4.0,1,9.0,Average,Yes,No,No,2024,146.3,12.19
+SKR-1148,Barrage Colony,4.0,2,2.0,1,10.0,Excellent,No,No,No,2025,65.9,16.48
+SKR-2068,Military Road,5.0,3,2.0,1,10.0,Good,Yes,No,Yes,2025,104.6,20.92
+SKR-1537,Airport Road,6.0,2,1.0,2,11.0,Good,Yes,No,Yes,2026,92.5,15.42
+SKR-1819,Bunder Road,10.0,3,3.0,1,,Average,No,No,No,2024,170.9,17.09
+SKR-1071,Airport Road,8.0,3,2.0,2,21.0,Excellent,Yes,No,No,2024,117.6,14.7
+SKR-2128,Rohri,15.0,7,6.0,2,29.0,Average,Yes,Yes,No,2024,117.4,7.83
+SKR-1263,Airport Road,10.0,5,4.0,3,6.0,Excellent,Yes,No,No,2025,188.0,18.8
+SKR-1172,Barrage Colony,10.0,5,4.0,2,16.0,Poor,Yes,No,No,2026,138.0,13.8
+SKR-2159,Military Road,10.0,4,3.0,1,16.0,Average,No,No,Yes,2025,152.4,15.24
+SKR-1169,Military Road,12.0,4,3.0,3,4.0,Excellent,No,No,No,2024,242.1,20.18
+SKR-1479,Bunder Road,5.0,3,2.0,1,13.0,Excellent,No,No,Yes,2025,114.7,22.94
+SKR-1906,Rohri,7.0,2,,2,23.0,Average,No,No,No,2026,54.5,7.79
+SKR-1813,Rohri,4.0,2,1.0,1,2.0,Good,No,Yes,Yes,2026,37.0,9.25
+SKR-1126,Military Road,7.0,5,5.0,1,10.0,Average,No,No,Yes,2025,123.3,17.61
+SKR-1373,Old Sukkur,5.0,2,1.0,2,10.0,Average,No,No,Yes,2025,46.6,9.32
+SKR-1362,Military Road,8.0,3,2.0,2,22.0,Average,Yes,No,Yes,2025,129.2,16.15
+SKR-1165,Barrage Colony,8.0,2,1.0,3,14.0,Average,Yes,No,No,2025,140.4,17.55
+SKR-1726,Old Sukkur,7.0,3,2.0,2,9.0,Good,Yes,No,No,2025,73.4,10.49
+SKR-2118,Airport Road,7.0,2,1.0,2,25.0,Average,No,No,No,2025,77.3,11.04
+SKR-1572,Rohri,5.0,2,1.0,1,6.0,Average,No,Yes,No,2025,38.5,7.7
+SKR-1827,Barrage Colony,3.0,1,1.0,1,9.0,Good,No,No,No,2025,44.7,14.9
+SKR-1043,Bunder Road,12.0,5,4.0,2,2.0,Good,Yes,No,No,2026,304.8,25.4
+SKR-1769,Military Road,3.0,1,,2,13.0,Poor,No,Yes,Yes,2025,48.1,16.03
+SKR-1900,Old Sukkur,4.0,4,3.0,2,7.0,Average,No,Yes,Yes,2024,40.9,10.22
+SKR-2066,Old Sukkur,6.0,3,2.0,1,14.0,Good,Yes,Yes,No,2025,60.7,10.12
+SKR-1133,Old Sukkur,15.0,5,5.0,2,,Good,Yes,No,No,2025,181.9,12.13
+SKR-1190,Barrage Colony,8.0,4,,2,,Good,Yes,Yes,No,2024,138.3,17.29
+SKR-1632,Shikarpur Road,10.0,4,4.0,2,11.0,Good,Yes,No,No,2025,125.9,12.59
+SKR-1039,Rohri,6.0,2,2.0,1,,Good,No,No,Yes,2025,48.1,8.02
+SKR-1541,Shikarpur Road,20.0,6,5.0,1,17.0,Average,Yes,No,Yes,2024,179.6,8.98
+SKR-1475,Barrage Colony,10.0,3,3.0,2,2.0,Good,Yes,No,No,2026,192.0,19.2
+SKR-1315,Old Sukkur,5.0,3,3.0,1,6.0,Average,Yes,Yes,No,2024,50.4,10.08
+SKR-2026,Bunder Road,15.0,6,6.0,1,9.0,Average,Yes,No,No,2024,270.5,18.03
+SKR-1390,Military Road,10.0,3,2.0,1,24.0,Average,Yes,Yes,No,2024,144.3,14.43
+SKR-1899,Shikarpur Road,7.0,4,4.0,2,19.0,Poor,Yes,No,No,2025,73.2,10.46
+SKR-1309,Airport Road,8.0,4,4.0,1,8.0,Average,Yes,Yes,No,2025,114.8,14.35
+SKR-1014,Old Sukkur,3.0,3,3.0,2,4.0,Excellent,No,No,Yes,2025,38.0,12.67
+SKR-1167,Rohri,5.0,2,2.0,1,12.0,Poor,No,No,No,2024,26.3,5.26
+SKR-1532,Old Sukkur,5.0,3,3.0,1,8.0,Average,No,Yes,No,2026,46.7,9.34
+SKR-1665,Rohri,15.0,5,4.0,1,10.0,Good,Yes,No,Yes,2026,162.7,10.85
+SKR-1319,Military Road,3.0,2,2.0,2,22.0,Poor,Yes,No,No,2026,47.6,15.87
+SKR-1705,Barrage Colony,8.0,4,3.0,2,7.0,Excellent,Yes,No,No,2025,140.0,17.5
+SKR-1364,Old Sukkur,10.0,4,4.0,2,9.0,Average,No,Yes,No,2026,101.7,10.17
+SKR-1704,Airport Road,4.0,3,3.0,2,10.0,Good,No,No,No,2026,63.8,15.95
+SKR-1931,Barrage Colony,20.0,8,7.0,2,,Good,Yes,No,No,2025,319.9,16.0
+SKR-1021,Airport Road,5.0,1,1.0,1,5.0,Good,Yes,No,No,2025,66.4,13.28
+SKR-1798,OLD SUKKUR,5.0,3,2.0,1,,Good,No,Yes,Yes,2025,48.2,9.64
+SKR-1072,Barrage Colony,4.0,3,3.0,1,0.0,Excellent,No,No,No,2025,77.6,19.4
+SKR-2188,Old Sukkur,6.0,3,3.0,1,8.0,Average,Yes,No,No,2026,58.0,9.67
+SKR-1588, Old Sukkur ,10.0,5,5.0,1,21.0,Poor,No,No,No,2025,77.2,7.72
+SKR-1061,Airport Road,20.0,8,7.0,2,19.0,Poor,No,No,No,2025,207.8,10.39
+SKR-1409,Military Road,3.0,2,1.0,2,13.0,Average,No,No,No,2025,48.0,16.0
+SKR-1111,Shikarpur Road,12.0,5,5.0,2,11.0,Average,No,No,Yes,2025,156.4,13.03
+SKR-1005,Barrage Colony,5.0,2,2.0,2,30.0,Poor,Yes,Yes,Yes,2026,78.7,15.74
+SKR-1833,Barrage Colony,7.0,2,1.0,3,9.0,Poor,Yes,No,No,2025,97.0,13.86
+SKR-1591,Airport Road,8.0,4,4.0,3,14.0,Good,Yes,No,No,2025,131.3,16.41
+SKR-1564,Old Sukkur,4.0,2,2.0,2,3.0,Good,No,No,No,2024,40.2,10.05
+SKR-1644,Military Road,3.0,2,1.0,1,4.0,Good,No,No,No,2026,60.8,20.27
+SKR-1337,Old Sukkur,5.0,3,2.0,2,14.0,Good,No,No,Yes,2025,52.6,10.52
+SKR-1285,Rohri,6.0,3,3.0,1,29.0,Excellent,Yes,Yes,No,2025,61.7,10.28
+SKR-1610,Shikarpur Road,4.0,2,2.0,1,11.0,Good,No,Yes,Yes,2026,63.0,15.75
+SKR-1284,Shikarpur Road,5.0,2,1.0,2,6.0,Average,No,No,Yes,2025,60.2,12.04
+SKR-1792,Airport Road,4.0,3,3.0,1,5.0,Average,Yes,Yes,No,2025,64.1,16.02
+SKR-2070,Shikarpur Road,10.0,4,3.0,3,15.0,Poor,Yes,No,No,2025,109.0,10.9
+SKR-1095,Shikarpur Road,8.0,3,3.0,2,13.0,Good,No,No,Yes,2025,93.7,11.71
+SKR-1096,Shikarpur Road,8.0,2,1.0,2,7.0,Good,Yes,No,No,2024,88.9,11.11
+SKR-1831,Rohri,10.0,5,5.0,1,1.0,Good,No,No,No,2024,88.1,8.81
+SKR-1518,Shikarpur Road,7.0,2,1.0,2,10.0,Good,Yes,No,No,2024,75.1,10.73
+SKR-1748,Military Road,4.0,2,1.0,1,,Average,No,Yes,No,2024,64.8,16.2
+SKR-1830,Barrage Colony,5.0,3,2.0,1,30.0,Poor,Yes,No,No,2024,57.1,11.42
+SKR-1059,Military Road,7.0,2,1.0,2,9.0,Good,No,No,Yes,2025,146.5,20.93
+SKR-1327,Barrage Colony,5.0,3,2.0,1,26.0,Average,No,No,No,2025,64.0,12.8
+SKR-1307,Airport Road,10.0,5,4.0,1,18.0,Poor,Yes,No,No,2026,117.2,11.72
+SKR-1923,Rohri,10.0,5,4.0,1,3.0,Good,Yes,Yes,Yes,2024,101.6,10.16
+SKR-1025,Airport Road,7.0,3,3.0,2,,Poor,Yes,No,No,2024,87.7,12.53
+SKR-1652,Rohri,4.0,2,2.0,1,22.0,Average,No,No,No,2025,26.7,6.68
+SKR-1245,Military Road,8.0,4,4.0,1,,Excellent,Yes,No,No,2026,157.8,19.73
+SKR-1026,Barrage Colony,7.0,4,4.0,3,10.0,Average,Yes,No,No,2026,117.9,16.84
+SKR-1223,Shikarpur Road,10.0,5,4.0,2,35.0,Good,Yes,Yes,No,2024,106.6,10.66
+SKR-1901,Shikarpur Road,6.0,3,3.0,1,23.0,Average,No,No,No,2025,58.9,9.82
+SKR-1106,Military Road,15.0,5,5.0,2,14.0,Good,Yes,Yes,Yes,2025,290.0,19.33
+SKR-2079,Bunder Road,12.0,6,5.0,2,7.0,Average,Yes,No,No,2026,278.8,23.23
+SKR-1131,Rohri,15.0,6,6.0,2,7.0,Good,Yes,No,No,2025,147.6,9.84
+SKR-1154,Bunder Road,5.0,2,2.0,1,23.0,Good,No,No,No,2025,82.4,16.48
+SKR-1849,Old Sukkur,12.0,5,4.0,2,,Good,Yes,No,No,2025,124.6,10.38
+SKR-1954,airport road,5.0,2,1.0,2,8.0,Excellent,Yes,No,No,2025,84.6,16.92
+SKR-1335,Shikarpur Rd,7.0,2,2.0,2,15.0,Average,Yes,No,No,2025,79.4,11.34
+SKR-1136,Shikarpur Road,8.0,4,4.0,2,6.0,,Yes,No,No,2024,90.8,11.35
+SKR-1076,Shikarpur Road,10.0,3,3.0,1,9.0,Average,No,No,No,2026,104.5,10.45
+SKR-2164,Military Road,15.0,5,5.0,1,13.0,Average,Yes,Yes,Yes,2025,272.5,18.17
+SKR-2063,Shikarpur Road,10.0,4,3.0,2,16.0,Poor,Yes,No,No,2025,89.2,8.92
+SKR-1453,Bunder Road,8.0,3,2.0,3,17.0,Average,No,No,Yes,2024,152.1,19.01
+SKR-2142,Rohri,8.0,4,4.0,2,2.0,Good,Yes,Yes,No,2026,96.4,12.05
+SKR-2084,Military Road,6.0,4,4.0,1,14.0,Average,No,No,No,2025,92.8,15.47
+SKR-1431,Shikarpur Road,5.0,3,3.0,2,10.0,Average,No,No,No,2025,52.2,10.44
+SKR-1200,Barrage Colony,10.0,3,3.0,2,15.0,Excellent,Yes,No,No,2026,182.3,18.23
+SKR-1846,Rohri,7.0,2,2.0,2,3.0,,No,Yes,No,2025,72.4,10.34
+SKR-1135,Bunder Road,5.0,1,1.0,2,31.0,Good,No,No,Yes,2024,84.7,16.94
+SKR-1964,Military Road,4.0,3,3.0,1,15.0,Excellent,No,No,Yes,2025,73.7,18.42
+SKR-1260,Airport Road,3.0,2,2.0,1,,Average,No,No,No,2026,41.4,13.8
+SKR-1596,Military Road,10.0,2,1.0,3,8.0,Average,Yes,No,No,2025,142.1,14.21
+SKR-1004,Barrage Colony,8.0,4,4.0,3,15.0,Average,Yes,No,Yes,2026,157.2,19.65
+SKR-2096,Barrage Colony,6.0,2,2.0,1,6.0,Good,Yes,No,Yes,2025,117.3,19.55
+SKR-1211,Bunder Road,5.0,2,1.0,1,22.0,Average,Yes,Yes,No,2025,90.1,18.02
+SKR-1197,Rohri,5.0,3,3.0,1,17.0,Average,No,No,Yes,2024,38.7,7.74
+SKR-1771,Rohri,8.0,4,4.0,3,17.0,Excellent,No,Yes,Yes,2024,101.9,12.74
+SKR-1836,Military Road,5.0,2,2.0,1,9.0,Average,No,No,No,2025,75.6,15.12
+SKR-1027,Bunder Road,10.0,3,2.0,2,10.0,Average,No,No,No,2025,179.2,17.92
+SKR-1351,Military Road,5.0,2,1.0,2,4.0,Average,Yes,No,Yes,2025,100.2,20.04
+SKR-1474,Old Sukkur,4.0,3,3.0,1,15.0,Good,Yes,No,No,2025,49.2,12.3
+SKR-2123,Rohri,4.0,2,1.0,1,6.0,Good,No,No,Yes,2026,36.9,9.22
+SKR-1317, Barrage Colony ,5.0,2,1.0,1,5.0,Good,No,Yes,No,2026,86.6,17.32
+SKR-1062,Barrage Colony,8.0,3,3.0,1,25.0,Average,Yes,Yes,No,2024,109.1,13.64
+SKR-1907,Military Road,8.0,3,3.0,1,1.0,Good,No,No,No,2024,123.5,15.44
+SKR-2022,Old Sukkur,4.0,4,4.0,1,10.0,Good,No,No,Yes,2026,46.7,11.68
+SKR-1447,Old Sukkur,5.0,4,3.0,2,,Good,No,No,Yes,2025,58.5,11.7
+SKR-1672,Old Sukkur,10.0,4,4.0,3,20.0,Poor,Yes,No,No,2025,95.0,9.5
+SKR-1628,Old Sukkur,5.0,3,3.0,1,25.0,Average,No,No,No,2025,43.7,8.74
+SKR-1761,Rohri,20.0,8,7.0,1,39.0,Average,Yes,No,No,2026,138.3,6.92
+SKR-1356,Shikarpur Road,3.0,1,1.0,2,12.0,Average,Yes,Yes,Yes,2025,43.4,14.47
+SKR-2086,Shikarpur Road,10.0,4,4.0,3,13.0,Average,No,No,No,2026,125.4,12.54
+SKR-1505,Military Road,12.0,3,3.0,1,11.0,Average,No,No,No,2024,163.3,13.61
+SKR-1898,Shikarpur Road,5.0,2,1.0,1,9.0,Average,Yes,No,Yes,2026,62.3,12.46
+SKR-1936,Shikarpur Road,6.0,3,2.0,1,12.0,Good,No,No,No,2024,55.6,9.27
+SKR-1009,Shikarpur Road,5.0,3,2.0,2,6.0,Good,No,No,No,2025,58.6,11.72
+SKR-1419,Military Road,12.0,4,3.0,2,12.0,Good,Yes,No,No,2024,199.7,16.64
+SKR-1599,Rohri,5.0,3,2.0,1,24.0,Poor,Yes,No,No,2025,37.9,7.58
+SKR-2036,Old Sukkur,5.0,3,3.0,1,11.0,Average,Yes,Yes,Yes,2025,61.1,12.22
+SKR-1511,Barrage Colony,5.0,3,2.0,2,5.0,Good,No,Yes,No,2025,87.5,17.5
+SKR-2032,Shikarpur Rd,5.0,2,2.0,1,15.0,Poor,No,No,Yes,2026,43.9,8.78
+SKR-1807,Old Sukkur,6.0,2,2.0,1,3.0,Good,No,Yes,Yes,2025,60.6,10.1
+SKR-1464,Airport Road,3.0,2,,2,20.0,Average,No,No,No,2024,36.2,12.07
+SKR-1075,Rohri,15.0,6,6.0,2,11.0,Good,Yes,No,No,2026,136.9,9.13
+SKR-1706,Bunder Road,10.0,3,2.0,1,6.0,Poor,Yes,No,No,2026,160.9,16.09
+SKR-1058,Barrage Colony,5.0,3,3.0,2,22.0,Poor,No,No,Yes,2025,73.7,14.74
+SKR-2015,Barrage Colony,4.0,3,2.0,2,2.0,Excellent,Yes,No,No,2024,81.8,20.45
+SKR-1456,Military Road,5.0,3,2.0,2,25.0,Good,No,No,No,2025,71.9,14.38
+SKR-1298,Military Road,6.0,3,3.0,1,9.0,Good,No,Yes,No,2024,109.5,18.25
+SKR-2046,Airport Road,5.0,3,2.0,2,25.0,Poor,No,No,No,2024,48.5,9.7
+SKR-1218, Rohri ,5.0,3,3.0,1,14.0,Good,No,Yes,No,2026,42.0,8.4
+SKR-1702,Military Road,8.0,3,3.0,1,3.0,Good,No,No,Yes,2026,129.8,16.23
+SKR-1659,Rohri,5.0,3,2.0,2,18.0,Average,No,No,Yes,2026,45.6,9.12
+SKR-2054,Shikarpur Road,6.0,3,2.0,1,40.0,Good,No,Yes,Yes,2025,61.9,10.32
+SKR-2029,Rohri,5.0,3,2.0,1,6.0,Average,No,No,No,2026,38.6,7.72
+SKR-1674,Shikarpur Road,10.0,3,2.0,2,12.0,Good,No,No,No,2024,99.5,9.95
+SKR-1526,Shikarpur Road,7.0,2,2.0,3,22.0,Poor,No,No,No,2026,66.6,9.51
+SKR-1856,Shikarpur Road,4.0,2,1.0,1,5.0,Excellent,No,No,No,2025,46.8,11.7
+SKR-1692,Shikarpur Road,4.0,2,1.0,1,11.0,Average,No,No,No,2024,31.4,7.85
+SKR-1975,Airport Road,5.0,1,1.0,1,17.0,Average,Yes,No,Yes,2025,61.1,12.22
+SKR-2000,Airport Road,12.0,5,5.0,2,25.0,Average,Yes,No,No,2025,148.2,12.35
+SKR-1267,Airport Road,3.0,2,1.0,1,45.0,Average,No,No,No,2024,24.4,8.13
+SKR-1007,Rohri,3.0,2,2.0,1,13.0,Excellent,Yes,No,Yes,2025,35.9,11.97
+SKR-1681,Bunder Road,6.0,2,1.0,1,11.0,Average,No,No,No,2025,111.1,18.52
+SKR-1508,Military Road,5.0,2,1.0,2,15.0,Poor,No,No,No,2024,65.2,13.04
+SKR-2082,Airport Road,6.0,3,3.0,2,,Average,No,No,No,2025,89.6,14.93
+SKR-1139,Barrage Colony,3.0,3,2.0,2,21.0,Average,No,No,No,2024,41.4,13.8
+SKR-1164,Old Sukkur,12.0,4,4.0,3,23.0,Poor,Yes,No,Yes,2025,128.7,10.72
+SKR-1723,Rohri,4.0,2,1.0,2,4.0,Excellent,No,No,No,2024,36.5,9.12
+SKR-1698,Airport Road,7.0,3,2.0,2,10.0,Average,No,No,No,2025,90.6,12.94
+SKR-2065,Shikarpur Road,5.0,4,3.0,2,7.0,Average,No,No,Yes,2024,69.7,13.94
+SKR-1044,Shikarpur Road,7.0,2,2.0,1,8.0,Average,No,No,No,2024,62.7,8.96
+SKR-1755,Military Road,5.0,2,1.0,1,9.0,Excellent,Yes,No,Yes,2026,114.2,22.84
+SKR-2160,Airport Road,7.0,2,2.0,3,6.0,Good,No,No,No,2026,110.2,15.74
+SKR-1320,Military Road,5.0,3,2.0,1,16.0,Poor,Yes,No,No,2024,56.4,11.28
+SKR-2163,Military Road,8.0,3,2.0,1,20.0,Poor,Yes,No,No,2026,115.1,14.39
+SKR-1783,Old Sukkur,6.0,3,3.0,2,16.0,Poor,No,Yes,No,2024,48.2,8.03
+SKR-1861,Shikarpur Road,10.0,4,3.0,3,22.0,Average,Yes,No,Yes,2024,114.5,11.45
+SKR-1295,Old Sukkur,3.0,1,1.0,2,,Poor,Yes,No,No,2024,27.9,9.3
+SKR-1408,Old Sukkur,12.0,6,6.0,1,8.0,Excellent,Yes,No,Yes,2026,160.8,13.4
+SKR-2181,Military Road,15.0,5,5.0,1,24.0,Average,Yes,No,No,2025,203.4,13.56
+SKR-1703,Rohri,15.0,6,5.0,1,13.0,Good,Yes,No,No,2025,121.3,8.09
+SKR-1971,Barrage Colony,4.0,2,2.0,1,6.0,Excellent,No,Yes,No,2026,82.5,20.62
+SKR-1020,Bunder Road,5.0,2,1.0,1,9.0,Average,Yes,No,No,2025,84.8,16.96
+SKR-1737,Bunder Road,5.0,3,2.0,1,10.0,Good,Yes,No,No,2026,109.0,21.8
+SKR-1452,Military Road,2000.0,7,6.0,1,13.0,Good,No,No,Yes,2026,346.1,17.3
+SKR-1468,Shikarpur Road,5.0,3,2.0,2,6.0,Good,No,No,No,2024,61.9,12.38
+SKR-1963,Military Road,7.0,3,2.0,2,10.0,Good,Yes,No,No,2026,139.1,19.87
+SKR-2048,Military Road,8.0,4,4.0,1,15.0,Average,Yes,No,No,2026,135.4,16.92
+SKR-1398, Old Sukkur ,4.0,3,3.0,2,2.0,Good,Yes,No,No,2024,44.1,11.02
+SKR-1448,Bunder Road,8.0,4,3.0,3,16.0,Poor,Yes,No,Yes,2025,143.1,17.89
+SKR-1138,Old Sukkur,7.0,4,3.0,1,16.0,Average,Yes,No,No,2024,65.5,9.36
+SKR-1699,Old Sukkur,10.0,5,4.0,2,18.0,Average,Yes,Yes,No,2025,104.5,10.45
+SKR-1519,Airport Road,5.0,2,1.0,2,19.0,Good,No,No,Yes,2026,69.5,13.9
+SKR-1186,Shikarpur Road,12.0,4,,1,10.0,Average,Yes,No,No,2025,111.5,9.29
+SKR-1952,Military Road,4.0,2,2.0,1,4.0,Good,No,No,No,2026,79.0,19.75
+SKR-1413,Rohri,5.0,1,1.0,2,7.0,Good,No,No,No,2024,42.0,8.4
+SKR-2150,Shikarpur Rd,4.0,2,1.0,2,27.0,Poor,No,Yes,No,2025,36.7,9.18
+SKR-1510,Old Sukkur,12.0,5,4.0,3,13.0,Good,Yes,No,Yes,2024,128.9,10.74
+SKR-2140,Barrage Colony,5.0,2,1.0,2,19.0,Average,Yes,No,No,2024,66.1,13.22
+SKR-1484,Airport Road,5.0,3,2.0,2,10.0,,No,No,No,2024,73.7,14.74
+SKR-1328,Airport Road,8.0,3,2.0,1,18.0,Poor,No,No,Yes,2024,71.3,8.91
+SKR-1318,Airport Road,5.0,3,3.0,1,13.0,Average,Yes,Yes,No,2024,69.8,13.96
+SKR-2198,Barrage Colony,7.0,3,2.0,2,17.0,Good,Yes,No,No,2026,138.0,19.71
+SKR-2161,Barrage Colony,3.0,2,2.0,2,5.0,Poor,No,No,Yes,2025,50.0,16.67
+SKR-1527,Rohri,7.0,2,1.0,2,39.0,,No,No,No,2025,48.2,6.89
+SKR-1721,Old Sukkur,10.0,5,4.0,3,22.0,Poor,Yes,Yes,Yes,2026,106.9,10.69
+SKR-1903,Barrage Colony,3.0,2,1.0,2,6.0,Good,No,No,No,2024,50.9,16.97
+SKR-2090,Old Sukkur,15.0,5,5.0,2,16.0,Average,Yes,No,No,2024,129.9,8.66
+SKR-2133,Airport Road,12.0,6,5.0,1,10.0,Average,Yes,No,No,2025,163.9,13.66
+SKR-2185,Shikarpur Road,5.0,2,2.0,2,6.0,Good,No,Yes,Yes,2026,80.2,16.04
+SKR-1149,Military Road,5.0,2,2.0,1,22.0,Poor,Yes,No,No,2024,54.1,10.82
+SKR-1879,Bunder Road,15.0,6,5.0,2,5.0,Average,Yes,No,Yes,2026,358.9,23.93
+SKR-1984,Military Road,4.0,2,1.0,2,19.0,Excellent,No,No,No,2025,65.0,16.25
+SKR-1531,Old Sukkur,4.0,2,2.0,2,10.0,Good,No,No,No,2025,39.9,9.98
+SKR-1753,Old Sukkur,12.0,5,4.0,2,39.0,Average,Yes,No,No,2025,106.1,8.84
+SKR-1970,Barrage Colony,4.0,2,2.0,1,8.0,Good,Yes,No,No,2024,71.2,17.8
+SKR-1366,Barrage Colony,8.0,4,3.0,3,6.0,Average,Yes,No,No,2026,165.6,20.7
+SKR-1636,Rohri,7.0,4,3.0,1,16.0,Average,Yes,Yes,No,2024,56.0,8.0
+SKR-1884,Old Sukkur,3.0,3,3.0,1,4.0,Good,No,No,No,2026,38.9,12.97
+SKR-1820,Rohri,10.0,5,4.0,2,2.0,Excellent,Yes,No,No,2025,104.8,10.48
+SKR-2141,Bunder Road,3.0,3,3.0,1,4.0,Average,No,No,Yes,2025,65.8,21.93
+SKR-1934,Rohri,6.0,2,1.0,1,4.0,Excellent,Yes,No,No,2026,61.4,10.23
+SKR-1489,Old Sukkur,5.0,3,2.0,1,17.0,Poor,Yes,No,No,2026,47.1,9.42
+SKR-1233,Old Sukkur,8.0,4,3.0,1,8.0,Good,No,No,No,2024,66.9,8.36
+SKR-1735,Military Road,5.0,3,2.0,1,18.0,Good,No,No,No,2024,672.0,13.44
+SKR-1595,Military Road,20.0,8,7.0,3,5.0,Good,Yes,No,No,2025,333.3,16.66
+SKR-1800,Bunder Road,10.0,4,4.0,1,5.0,Excellent,No,Yes,No,2024,207.2,20.72
+SKR-1725,Old Sukkur,10.0,4,3.0,2,16.0,Poor,No,No,No,2026,87.0,8.7
+SKR-1159,Bunder Road,10.0,4,4.0,2,9.0,Excellent,No,No,Yes,2026,263.4,26.34
+SKR-1316,Bunder Road,5.0,2,2.0,1,9.0,Average,No,Yes,No,2024,87.3,17.46
+SKR-1257,Barrage Colony,5.0,3,3.0,1,,Average,Yes,No,No,2024,65.2,13.04
+SKR-1752,Military Road,12.0,3,2.0,1,21.0,Poor,Yes,No,Yes,2026,161.1,13.42
+SKR-1097,Airport Road,5.0,3,3.0,1,,Average,No,No,No,2025,77.6,15.52
+SKR-2175,Shikarpur Road,10.0,4,4.0,1,28.0,Average,Yes,No,Yes,2026,94.8,9.48
+SKR-2045,Rohri,15.0,7,7.0,2,18.0,Excellent,No,No,No,2025,129.2,8.61
+SKR-1385,Airport Road,15.0,6,6.0,2,6.0,Average,Yes,No,No,2026,217.3,14.49
+SKR-2016,Airport Road,4.0,2,1.0,1,9.0,Excellent,No,No,Yes,2024,64.3,16.08
+SKR-1178,Military Road,10.0,4,4.0,2,15.0,Average,No,No,No,2025,142.1,14.21
+SKR-1329,Rohri,12.0,4,4.0,3,12.0,Average,Yes,No,No,2026,121.7,10.14
+SKR-1315,Old Sukkur,5.0,3,3.0,1,6.0,Average,Yes,Yes,No,2024,50.4,10.08
+SKR-1416,Military Road,8.0,3,2.0,1,3.0,Excellent,No,Yes,No,2024,166.2,20.78
+SKR-1358,Airport Rd,5.0,2,1.0,2,17.0,Average,Yes,No,No,2024,64.8,12.96
+SKR-1348,Bunder Road,15.0,5,5.0,1,21.0,Average,Yes,No,No,2026,272.7,18.18
+SKR-2166,Rohri,15.0,6,5.0,3,3.0,Average,Yes,No,No,2024,142.5,9.5
+SKR-1299,Airport Road,5.0,2,2.0,1,12.0,Good,No,No,Yes,2025,70.2,14.04
+SKR-1552,Military Road,15.0,7,7.0,1,4.0,Excellent,No,No,Yes,2025,292.5,19.5
+SKR-1799,BUNDER ROAD,5.0,2,2.0,2,45.0,Poor,No,Yes,Yes,2024,68.1,13.62
+SKR-1938,Old Sukkur,4.0,2,1.0,1,19.0,Good,Yes,No,No,2025,40.1,10.02
+SKR-1695,Old Sukkur,10.0,4,4.0,2,28.0,Poor,Yes,No,Yes,2025,82.8,8.28
+SKR-1802,Shikarpur Road,20.0,7,7.0,2,7.0,Average,Yes,No,No,2026,290.6,14.53
+SKR-1649,Old Sukkur,10.0,3,2.0,2,28.0,Average,Yes,No,No,2026,89.0,8.9
+SKR-1250,Bunder Road,8.0,4,4.0,2,28.0,Average,Yes,No,Yes,2025,144.9,18.11
+SKR-1790,Airport Road,3.0,2,2.0,1,8.0,Average,No,No,No,2025,42.4,14.13
+SKR-1016,Old Sukkur,5.0,3,3.0,1,,Average,Yes,Yes,No,2026,61.6,12.32
+SKR-2126,Military Road,7.0,3,2.0,1,37.0,Average,Yes,No,No,2025,94.0,13.43
+SKR-1160,Old Sukkur,10.0,4,3.0,2,,Average,Yes,No,Yes,2025,102.4,10.24
+SKR-1965,Rohri,8.0,4,4.0,2,4.0,Excellent,Yes,No,No,2025,96.1,12.01
+SKR-1762,Rohri,10.0,5,5.0,3,14.0,Average,Yes,No,No,2025,112.1,11.21
+SKR-1361,Shikarpur Road,4.0,1,1.0,1,2.0,Good,No,No,Yes,2025,49.5,12.38
+SKR-1049,Old Sukkur,5.0,2,1.0,2,11.0,Good,No,No,No,2026,50.2,10.04
+SKR-1509,Airport Road,7.0,2,1.0,2,18.0,Average,No,No,Yes,2026,90.7,12.96
+SKR-1331,Barrage Colony,6.0,3,3.0,1,9.0,Excellent,No,No,No,2024,103.0,17.17
+SKR-1548,Barrage Colony,8.0,5,5.0,1,4.0,Excellent,No,No,Yes,2024,141.0,17.62
+SKR-1680,Military Road,10.0,4,4.0,2,9.0,Average,Yes,No,Yes,2024,195.8,19.58
+SKR-1113,Shikarpur Road,8.0,4,3.0,1,33.0,Average,Yes,No,Yes,2026,87.8,10.98
+SKR-1339,Rohri,8.0,3,2.0,1,10.0,Good,Yes,No,No,2025,62.5,7.81
+SKR-1308,Barrage Colony,4.0,3,3.0,1,8.0,,No,No,No,2025,76.9,19.23
+SKR-2165, Military Road ,5.0,3,3.0,1,10.0,Average,Yes,Yes,No,2026,95.5,19.1
+SKR-1423,Shikarpur Road,3.0,1,1.0,2,13.0,Good,No,No,No,2025,35.2,11.73
+SKR-1417,Old Sukkur,5.0,3,3.0,1,27.0,Poor,Yes,No,No,2024,31.9,6.38
+SKR-2191,Barrage Colony,10.0,5,4.0,2,32.0,Average,Yes,No,Yes,2024,160.6,16.06
+SKR-1507,Barrage Colony,8.0,3,2.0,2,23.0,Average,Yes,Yes,No,2025,138.0,17.25
+SKR-1779,Old Sukkur,10.0,5,5.0,1,16.0,Poor,Yes,No,No,2024,77.3,7.73
+SKR-1840,Shikarpur Road,8.0,4,3.0,2,,Poor,Yes,Yes,No,2026,98.9,12.36
+SKR-1757,Old Sukkur,5.0,2,2.0,1,13.0,Average,No,No,Yes,2026,39.3,7.86
+SKR-1396,Shikarpur Road,8.0,3,2.0,1,6.0,Poor,Yes,No,No,2024,61.2,7.65
+SKR-2105,Old Sukkur,6.0,3,2.0,1,,Average,No,No,No,2025,48.4,8.07
+SKR-1460,Military Road,5.0,4,3.0,2,1.0,Good,No,No,No,2024,101.5,20.3
+SKR-1559,Airport Road,5.0,3,3.0,2,13.0,Average,Yes,No,Yes,2025,94.7,18.94
+SKR-1128,Old Sukkur,20.0,7,6.0,2,3.0,Excellent,Yes,No,No,2024,225.8,11.29
+SKR-1512,Airport Road,6.0,2,1.0,1,1.0,Excellent,No,No,No,2026,101.1,16.85
+SKR-1926,Shikarpur Road,12.0,4,3.0,2,7.0,Average,Yes,No,No,2025,151.6,12.63
+SKR-1529,bunder road,6.0,4,4.0,1,22.0,Excellent,No,No,Yes,2026,142.0,23.67
+SKR-1592,Shikarpur Road,6.0,3,3.0,1,12.0,Good,No,No,No,2024,65.8,10.97
+SKR-1450,Shikarpur Road,20.0,8,7.0,2,13.0,Average,Yes,No,No,2025,203.0,10.15
+SKR-1238,Shikarpur Road,3.0,2,1.0,1,6.0,Poor,No,No,No,2026,30.0,10.0
+SKR-1168,Military Road,4.0,3,2.0,1,31.0,Poor,No,No,No,2025,42.5,10.62
+SKR-1621,Old Sukkur,8.0,3,2.0,2,16.0,Poor,Yes,No,No,2026,71.6,8.95
+SKR-1942,Rohri,5.0,2,2.0,2,5.0,Good,Yes,No,Yes,2025,49.9,9.98
+SKR-1081,Bunder Road,15.0,6,5.0,2,4.0,Excellent,No,No,No,2024,276.9,18.46
+SKR-1415,Barrage Colony,10.0,3,2.0,2,14.0,Poor,Yes,No,No,2025,129.7,12.97
+SKR-1843,Military Road,5.0,2,1.0,1,13.0,Good,No,No,No,2024,69.6,13.92
+SKR-1301,Old Sukkur,5.0,3,2.0,1,13.0,Average,No,No,No,2024,38.1,7.62
+SKR-1633,Old Sukkur,7.0,3,2.0,1,28.0,Average,Yes,No,No,2025,58.1,8.3
+SKR-1325,Airport Road,10.0,3,2.0,2,6.0,Good,No,No,Yes,2024,120.2,12.02
+SKR-1490,Military Road,5.0,2,1.0,1,6.0,Average,No,Yes,Yes,2025,89.6,17.92
+SKR-1216,Bunder Road,5.0,1,,2,20.0,Good,Yes,No,Yes,2025,102.4,20.48
+SKR-1612,Military Road,8.0,4,4.0,2,16.0,Good,Yes,No,Yes,2024,146.8,18.35
+SKR-1031,Bunder Road,7.0,3,3.0,1,16.0,Average,Yes,No,Yes,2026,144.2,20.6
+SKR-1243,Rohri,4.0,3,,2,15.0,Average,Yes,Yes,No,2024,42.4,10.6
+SKR-1719,Shikarpur Road,5.0,1,1.0,1,16.0,Poor,Yes,No,No,2025,42.1,8.42
+SKR-1887,Airport Road,7.0,3,3.0,2,10.0,Good,Yes,No,Yes,2025,117.3,16.76
+SKR-1986,Old Sukkur,7.0,2,2.0,3,16.0,Poor,Yes,Yes,No,2025,71.0,10.14
+SKR-1210,Old Sukkur,5.0,2,1.0,1,15.0,Good,Yes,No,Yes,2024,46.7,9.34
+SKR-2062,Old Sukkur,4.0,2,1.0,1,7.0,Average,Yes,Yes,Yes,2024,39.8,9.95
+SKR-2019,Shikarpur Road,6.0,3,2.0,1,6.0,Average,No,No,No,2025,58.0,9.67
+SKR-1969,Rohri,5.0,2,2.0,1,13.0,Average,Yes,Yes,No,2026,53.7,10.74
+SKR-1436,Military Road,5.0,2,1.0,1,31.0,Average,No,Yes,No,2026,74.0,14.8
+SKR-1028,Shikarpur Road,4.0,1,1.0,1,8.0,Good,No,No,Yes,2025,38.3,9.57
+SKR-2076,Military Road,7.0,3,2.0,2,2.0,Excellent,No,No,No,2024,121.8,17.4
+SKR-1639,Bunder Road,7.0,3,3.0,3,24.0,Poor,Yes,No,Yes,2024,118.7,16.96
+SKR-1123,Barrage Colony,5.0,2,2.0,2,11.0,Average,Yes,No,Yes,2025,93.4,18.68
+SKR-2102,Old Sukkur,15.0,4,4.0,2,5.0,Excellent,Yes,No,No,2026,177.8,11.85
+SKR-1463,Rohri,7.0,4,3.0,2,4.0,Good,Yes,No,Yes,2025,72.6,10.37
+SKR-2043,Airport Road,5.0,4,3.0,1,7.0,Average,No,No,No,2025,68.9,13.78
+SKR-2134,Old Sukkur,12.0,5,4.0,2,18.0,Average,Yes,Yes,No,2024,107.8,8.98
+SKR-1622,Old Sukkur,5.0,1,1.0,1,17.0,Poor,No,No,No,2025,30.8,6.16
+SKR-1961,Old Sukkur,7.0,4,4.0,1,3.0,Good,No,No,No,2026,78.6,11.23
+SKR-2049,Rohri,5.0,3,3.0,1,5.0,Excellent,No,Yes,No,2024,46.4,9.28
+SKR-1744,Military Road,10.0,4,4.0,2,7.0,Average,Yes,No,No,2025,161.7,16.17
+SKR-1627,Bunder Road,7.0,4,3.0,2,7.0,Good,Yes,No,No,2026,164.8,23.54
+SKR-1689,Shikarpur Road,3.0,2,2.0,1,9.0,Average,No,No,No,2024,30.0,10.0
+SKR-1832,Airport Road,5.0,3,3.0,1,11.0,Good,No,No,No,2024,68.9,13.78
+SKR-2194,Military Road,5.0,1,1.0,2,17.0,Poor,No,No,Yes,2025,76.7,15.34
+SKR-1203,Bunder Road,10.0,4,3.0,2,3.0,Good,No,No,No,2024,180.1,18.01
+SKR-1404,Military Road,15.0,5,5.0,2,,Average,Yes,No,No,2025,274.3,18.29
+SKR-2146,Shikarpur Road,6.0,2,1.0,1,23.0,Average,Yes,No,No,2024,54.7,9.12
+SKR-2197,Barrage Colony,5.0,2,2.0,2,11.0,Good,Yes,No,No,2026,95.6,19.12
+SKR-1363,Old Sukkur,4.0,1,1.0,2,15.0,Excellent,Yes,No,No,2024,42.1,10.52
+SKR-1272,Rohri,6.0,3,2.0,2,13.0,Average,No,Yes,No,2026,54.6,9.1
+SKR-1467,Barrage Colony,7.0,4,4.0,2,5.0,Good,Yes,No,Yes,2024,114.5,16.36
+SKR-2077,Barrage Colony,6.0,2,2.0,1,20.0,Excellent,Yes,No,Yes,2025,106.3,17.72
+SKR-1240,Airport Road,4.0,3,2.0,2,,Excellent,Yes,Yes,Yes,2025,88.7,22.18
+SKR-1278,Military Road,10.0,4,3.0,1,37.0,Average,Yes,Yes,No,2024,120.2,12.02
+SKR-2075,Barrage Colony,20.0,6,5.0,1,4.0,Good,Yes,Yes,Yes,2026,374.1,18.71
+SKR-1707,Barrage Colony,6.0,3,3.0,1,13.0,Good,Yes,No,No,2026,105.8,17.63
+SKR-1688,Airport Road,5.0,4,3.0,2,17.0,Poor,Yes,No,No,2024,61.9,12.38
+SKR-1443,Old Sukkur,8.0,4,,2,7.0,Excellent,Yes,No,Yes,2024,95.9,11.99
+SKR-1300,Shikarpur Rd,10.0,3,2.0,1,16.0,Poor,Yes,No,Yes,2026,96.1,9.61
+SKR-1376,Military Road,5.0,2,1.0,2,9.0,Poor,Yes,No,Yes,2026,75.4,15.08
+SKR-1658,Rohri,10.0,4,4.0,1,4.0,Good,Yes,No,No,2025,86.6,8.66
+SKR-1791,Military Road,8.0,3,3.0,2,4.0,Excellent,Yes,No,No,2026,198.0,24.75
+SKR-1675,Barrage Colony,6.0,2,2.0,1,35.0,Average,No,Yes,No,2024,69.9,11.65
+SKR-1473,Bunder Road,12.0,5,4.0,2,8.0,Good,No,Yes,No,2024,253.5,21.12
+SKR-1573, Shikarpur Road ,5.0,3,2.0,1,6.0,Good,No,No,Yes,2025,67.9,13.58
+SKR-2095,BUNDER ROAD,5.0,3,2.0,2,24.0,Poor,No,No,No,2026,77.5,15.5
+SKR-1389,Shikarpur Road,5.0,4,3.0,1,32.0,Poor,No,No,No,2026,42.0,8.4
+SKR-1023,Shikarpur Road,10.0,4,3.0,2,10.0,Poor,Yes,Yes,No,2026,114.8,11.48
+SKR-1929,Airport Road,4.0,2,2.0,1,31.0,Excellent,No,No,No,2025,50.5,12.62
+SKR-1892,Shikarpur Road,8.0,4,4.0,1,8.0,Excellent,Yes,No,No,2026,127.5,15.94
+SKR-1424,Old Sukkur,5.0,2,2.0,1,19.0,Average,Yes,Yes,Yes,2025,53.3,10.66
+SKR-1972,Old Sukkur,10.0,4,3.0,1,2.0,Average,Yes,No,Yes,2024,87.5,8.75
+SKR-1732,Shikarpur Road,6.0,2,1.0,1,15.0,,No,No,No,2025,64.6,10.77
+SKR-1663,Airport Road,7.0,3,3.0,1,21.0,Average,Yes,No,No,2025,91.3,13.04
+SKR-1336,Barrage Colony,5.0,4,3.0,1,12.0,Average,No,No,No,2024,69.5,13.9
+SKR-1143,Military Road,6.0,1,1.0,1,6.0,Good,No,No,No,2026,106.7,17.78
+SKR-1051,Shikarpur Road,7.0,3,2.0,2,18.0,Good,Yes,No,Yes,2026,90.2,12.89
+SKR-1686,Old Sukkur,8.0,3,3.0,2,29.0,Average,Yes,No,No,2025,70.8,8.85
+SKR-1749,Airport Road,12.0,5,4.0,1,4.0,Good,Yes,No,No,2024,129.0,10.75
+SKR-1082,Shikarpur Road,8.0,3,3.0,2,2.0,Good,No,No,No,2026,101.6,12.7
+SKR-1483,Bunder Road,20.0,8,7.0,1,11.0,Good,Yes,Yes,Yes,2025,480.7,24.04
+SKR-1322,Old Sukkur,3.0,2,1.0,1,5.0,Average,Yes,No,No,2026,37.4,12.47
+SKR-1983,Airport Road,5.0,4,3.0,1,18.0,Poor,Yes,No,No,2025,60.2,12.04
+SKR-2072,Old Sukkur,20.0,8,7.0,2,15.0,Average,Yes,No,Yes,2024,187.2,9.36
+SKR-2154,Rohri,10.0,5,5.0,1,19.0,Good,Yes,No,No,2025,83.0,8.3
+SKR-1067,Military Road,10.0,4,4.0,1,12.0,Average,Yes,No,No,2026,161.7,16.17
+SKR-2178,Airport Road,10.0,4,4.0,2,,Average,Yes,No,No,2026,168.5,16.85
+SKR-1624,Airport Road,5.0,2,1.0,1,16.0,Excellent,Yes,No,No,2025,77.8,15.56
+SKR-2171,Airport Road,7.0,2,1.0,2,12.0,Excellent,No,Yes,No,2025,114.0,16.29
+SKR-1418,Airport Road,10.0,5,5.0,2,20.0,Average,No,No,Yes,2025,145.0,14.5
+SKR-1890,Airport Road,7.0,3,3.0,1,15.0,Good,Yes,No,No,2025,86.0,12.29
+SKR-1065,Rohri,4.0,2,1.0,1,19.0,Average,No,No,No,2024,24.6,6.15
+SKR-1925,Shikarpur Road,6.0,4,3.0,2,27.0,Poor,No,No,Yes,2025,50.1,8.35
+SKR-1916,Bunder Road,5.0,4,4.0,2,3.0,Excellent,No,No,Yes,2024,116.7,23.34
+SKR-1717,Old Sukkur,5.0,3,3.0,1,7.0,Average,Yes,No,No,2025,51.4,10.28
+SKR-1492,Airport Road,6.0,3,3.0,1,26.0,Excellent,Yes,No,No,2024,84.9,14.15
+SKR-1722,Shikarpur Road,7.0,2,1.0,2,11.0,Average,Yes,No,No,2025,75.3,10.76
+SKR-1814,Bunder Road,5.0,3,3.0,2,27.0,Average,Yes,No,No,2025,83.2,16.64
+SKR-1066,Rohri,5.0,2,1.0,1,24.0,Poor,No,No,No,2024,24.7,4.94
+SKR-2003,Shikarpur Road,6.0,3,2.0,1,11.0,Good,Yes,No,No,2025,69.2,11.53
+SKR-1586,Shikarpur Road,10.0,3,3.0,3,21.0,Poor,Yes,No,Yes,2025,108.8,10.88
+SKR-2061,Old Sukkur,4.0,2,2.0,2,19.0,Poor,No,Yes,Yes,2025,37.2,9.3
+SKR-1297,Military Road,3.0,2,1.0,2,45.0,Good,No,No,No,2025,41.9,13.97
+SKR-1420,Shikarpur Road,8.0,4,3.0,2,6.0,Good,No,No,No,2025,82.6,10.32
+SKR-1439,Barrage Colony,5.0,2,1.0,2,18.0,Average,Yes,No,No,2024,69.1,13.82
+SKR-1262,airport road,4.0,1,1.0,1,6.0,Average,Yes,No,No,2026,59.9,14.98
+SKR-1715,Military Road,5.0,3,2.0,2,16.0,Poor,No,No,Yes,2026,76.0,15.2
+SKR-1282,Bunder Road,3.0,1,1.0,1,39.0,Average,No,Yes,No,2026,46.9,15.63
+SKR-1650,Military Road,8.0,2,2.0,3,,Average,No,Yes,No,2024,150.1,18.76
+SKR-1697,Old Sukkur,4.0,2,1.0,2,8.0,Average,Yes,Yes,No,2024,43.9,10.98
+SKR-1189,Shikarpur Road,12.0,5,4.0,2,3.0,Good,Yes,No,No,2024,146.1,12.18
+SKR-2064,Old Sukkur,12.0,5,4.0,3,31.0,Good,Yes,No,No,2024,126.3,10.52
+SKR-1252,Military Road,8.0,4,3.0,1,19.0,Average,Yes,No,No,2025,124.6,15.58
+SKR-1888,Barrage Colony,10.0,6,6.0,2,8.0,Good,No,No,No,2025,164.7,16.47
+SKR-1515,Airport Road,8.0,5,4.0,2,9.0,Excellent,No,No,Yes,2025,146.8,18.35
+SKR-1657,Rohri,7.0,2,1.0,1,7.0,Excellent,Yes,No,No,2025,50.1,7.16
+SKR-1488,Airport Road,10.0,4,4.0,2,1.0,Good,Yes,No,Yes,2025,158.2,15.82
+SKR-1274,Old Sukkur,4.0,1,1.0,1,4.0,Excellent,Yes,Yes,Yes,2024,46.6,11.65
+SKR-1977,Rohri,10.0,5,5.0,1,8.0,Average,No,No,No,2025,79.3,7.93
+SKR-2089,Military Road,10.0,4,4.0,1,1.0,Good,No,No,No,2026,199.2,19.92
+SKR-1449,Shikarpur Road,6.0,3,2.0,2,21.0,Poor,Yes,No,No,2025,55.1,9.18
+SKR-1412,Old Sukkur,10.0,3,3.0,1,13.0,Good,No,No,No,2024,85.7,8.57
+SKR-1870,Airport Road,5.0,3,3.0,1,14.0,Good,Yes,No,Yes,2024,78.1,15.62
+SKR-1739,Rohri,10.0,4,3.0,2,19.0,Poor,Yes,No,Yes,2024,76.2,7.62
+SKR-1951,Airport Road,7.0,4,4.0,2,26.0,Good,Yes,Yes,No,2025,110.9,15.84
+SKR-1967,Airport Road,3.0,2,2.0,1,15.0,Average,No,No,No,2024,32.3,10.77
+SKR-1150,Bunder Road,5.0,3,2.0,2,21.0,Average,Yes,Yes,Yes,2025,91.7,18.34
+SKR-1219,Shikarpur Road,12.0,6,5.0,1,15.0,Average,No,Yes,No,2026,150.9,12.58
+SKR-1240,Airport Road,4.0,3,2.0,2,,Excellent,Yes,Yes,Yes,2025,88.7,22.18
+SKR-1740,Bunder Road,8.0,2,1.0,2,9.0,Good,Yes,No,No,2024,156.9,19.61
+SKR-1193,Airport Road,3.0,2,2.0,1,36.0,Good,No,No,No,2026,38.7,12.9
+SKR-1192,Airport Road,8.0,4,4.0,2,,Good,Yes,No,No,2026,126.4,15.8
+SKR-1603,Airport Road,20.0,8,8.0,1,13.0,Average,Yes,No,No,2026,263.7,13.18
+SKR-1741,Old Sukkur,6.0,3,2.0,1,11.0,Poor,Yes,No,Yes,2026,59.4,9.9
+SKR-1619,Bunder Road,6.0,5,5.0,1,10.0,Average,Yes,No,No,2024,119.1,19.85
+SKR-2116,Barrage Colony,20.0,7,6.0,2,21.0,Poor,Yes,No,No,2026,255.8,12.79
+SKR-1937,Airport Road,7.0,4,4.0,2,6.0,Average,No,Yes,No,2024,99.6,14.23
+SKR-1958,Rohri,12.0,5,5.0,2,4.0,Good,Yes,No,No,2025,134.4,11.2
+SKR-1730,Airport Road,5.0,3,3.0,1,29.0,Average,No,No,Yes,2024,62.2,12.44
+SKR-1583,Military Road,7.0,2,1.0,2,3.0,Excellent,Yes,No,No,2026,153.8,21.97
+SKR-2124,Bunder Road,3.0,2,2.0,2,24.0,Average,Yes,No,Yes,2026,72.0,24.0
+SKR-1324,Shikarpur Road,8.0,4,4.0,2,,Average,Yes,No,No,2026,107.4,13.42
+SKR-1949,rohri,12.0,6,5.0,2,23.0,Good,No,No,No,2024,107.2,8.93
+SKR-1876,Airport Road,8.0,3,2.0,1,29.0,Good,No,No,No,2024,70.0,8.75
+SKR-1678,Barrage Colony,12.0,5,4.0,2,11.0,Average,Yes,No,No,2026,198.6,16.55
+SKR-1438,Barrage Colony,7.0,3,,1,9.0,Good,No,No,No,2024,112.0,16.0
+SKR-1794,Bunder Road,6.0,3,3.0,1,9.0,Average,No,No,Yes,2025,120.3,20.05
+SKR-1859,Barrage Colony,7.0,5,4.0,1,28.0,Average,Yes,No,No,2026,119.6,17.09
+SKR-1342, Rohri ,6.0,2,2.0,1,4.0,,Yes,No,No,2025,47.7,7.95
+SKR-1003,Airport Road,20.0,8,8.0,2,27.0,Poor,No,No,Yes,2025,252.7,12.64
+SKR-1230,Rohri,12.0,5,5.0,1,8.0,Good,No,No,No,2025,91.9,7.66
+SKR-1666,Military Road,10.0,4,,2,5.0,Excellent,Yes,No,No,2024,189.4,18.94
+SKR-2170,Shikarpur Road,5.0,3,3.0,2,25.0,,No,No,No,2025,71.1,14.22
+SKR-1077,Military Road,5.0,2,2.0,2,14.0,Excellent,Yes,No,No,2025,111.0,22.2
+SKR-2119,Airport Road,3.0,1,1.0,1,12.0,Excellent,No,No,Yes,2026,58.5,19.5
+SKR-1372,Military Road,12.0,7,7.0,2,27.0,Excellent,Yes,No,No,2025,194.5,16.21
+SKR-1181,Shikarpur Road,6.0,4,4.0,1,15.0,Average,Yes,No,No,2024,74.4,12.4
+SKR-1733,Shikarpur Road,8.0,4,3.0,2,8.0,Good,Yes,No,Yes,2026,115.4,14.42
+SKR-1578,Military Road,20.0,7,6.0,2,2.0,Good,Yes,No,No,2025,366.9,18.34
+SKR-1758,Old Sukkur,8.0,4,,1,12.0,Good,No,No,No,2025,64.7,8.09
+SKR-1782,Shikarpur Road,5.0,2,2.0,1,3.0,Good,No,No,No,2025,52.3,10.46
+SKR-2115,Old Sukkur,15.0,5,4.0,1,6.0,,Yes,No,No,2025,165.1,11.01
+SKR-2028,Military Road,6.0,3,2.0,1,21.0,Average,No,No,No,2025,93.3,15.55
+SKR-1667,Bunder Road,12.0,6,6.0,1,12.0,Average,Yes,No,No,2025,222.1,18.51
+SKR-1590,Barrage Colony,5.0,3,3.0,1,26.0,Good,No,No,No,2026,79.6,15.92
+SKR-1796,Old Sukkur,10.0,4,3.0,2,10.0,Good,Yes,No,No,2024,93.7,9.37
+SKR-1838,Military Road,8.0,4,3.0,2,13.0,Poor,Yes,No,Yes,2026,128.2,16.02
+SKR-1991,Barrage Colony,8.0,4,3.0,2,22.0,Good,No,No,No,2026,138.4,17.3
+SKR-2088,Barrage Colony,5.0,3,3.0,1,11.0,Excellent,No,No,No,2026,91.2,18.24
+SKR-1038,Airport Road,5.0,3,2.0,1,11.0,Good,No,No,No,2025,70.5,14.1
+SKR-1354,Barrage Colony,10.0,5,4.0,1,23.0,Good,Yes,No,Yes,2024,142.7,14.27
+SKR-2111,Old Sukkur,10.0,5,4.0,2,,Average,Yes,No,Yes,2025,110.7,11.07
+SKR-1237,Barrage Colony,7.0,3,3.0,3,30.0,Good,Yes,No,No,2024,111.0,15.86
+SKR-1960,Bunder Road,10.0,4,3.0,3,5.0,Average,No,No,No,2025,223.5,22.35
+SKR-1500,Military Road,10.0,4,3.0,3,10.0,Excellent,Yes,Yes,No,2025,233.8,23.38
+SKR-1554,Old Sukkur,15.0,5,4.0,3,14.0,Good,Yes,Yes,No,2025,162.7,10.85
+SKR-1056,Shikarpur Road,10.0,5,5.0,1,10.0,Good,Yes,No,No,2025,100.2,10.02
+SKR-1303,Military Road,6.0,2,1.0,1,7.0,Excellent,No,Yes,No,2025,118.2,19.7
+SKR-1287,Old Sukkur,4.0,3,3.0,2,,Good,No,No,No,2025,49.6,12.4
+SKR-1825,Military Road,8.0,3,3.0,2,5.0,Excellent,Yes,No,No,2025,163.4,20.42
+SKR-1220,Bunder Road,3.0,2,1.0,1,14.0,Average,Yes,Yes,No,2026,65.2,21.73
+SKR-2145,Old Sukkur,20.0,7,7.0,3,8.0,Good,Yes,No,No,2026,239.5,11.98
+SKR-1388,Rohri,5.0,2,2.0,2,11.0,Good,No,No,No,2024,39.5,7.9
+SKR-1759,Rohri,5.0,3,3.0,2,14.0,Good,No,No,No,2025,46.5,9.3
+SKR-1391,Old Sukkur,7.0,3,3.0,3,34.0,Average,Yes,No,No,2024,75.7,10.81
+SKR-1353,Military Road,5.0,3,2.0,1,14.0,Average,No,No,No,2024,67.2,13.44
+SKR-1194,Shikarpur Road,5.0,2,1.0,1,15.0,Average,No,No,No,2025,45.0,9.0
+SKR-1236,Barrage Colony,4.0,2,1.0,1,16.0,Average,No,No,No,2026,55.3,13.82
+SKR-2025,Bunder Road,4.0,3,2.0,1,18.0,Poor,Yes,No,No,2024,60.7,15.18
+SKR-1481,Bunder Road,10.0,4,4.0,1,33.0,Excellent,Yes,No,Yes,2024,187.5,18.75
+SKR-1568,Shikarpur Road,3.0,1,1.0,2,8.0,Good,No,No,Yes,2025,41.1,13.7
+SKR-1117,Military Road,5.0,3,2.0,1,7.0,Average,Yes,No,No,2026,88.7,17.74
+SKR-1891,Airport Road,15.0,6,6.0,3,5.0,Excellent,Yes,No,No,2025,278.6,18.57
+SKR-1654,Airport Road,6.0,2,1.0,1,5.0,Good,No,No,Yes,2024,82.3,13.72
+SKR-2080,Military Road,12.0,4,4.0,2,5.0,Average,Yes,No,No,2024,171.9,14.32
+SKR-2122,Military Road,4.0,3,2.0,1,14.0,Poor,Yes,No,No,2024,50.3,12.58
+SKR-1789,Military Road,5.0,3,3.0,2,4.0,Excellent,No,No,Yes,2024,104.0,20.8
+SKR-1801,Old Sukkur,8.0,3,2.0,2,20.0,Average,No,No,No,2026,60.2,7.52
+SKR-1121,Shikarpur Road,5.0,2,1.0,2,13.0,Average,Yes,No,No,2025,61.5,12.3
+SKR-1841,Shikarpur Road,10.0,4,4.0,3,21.0,Average,No,No,No,2024,109.7,10.97
+SKR-2034,Shikarpur Road,15.0,6,6.0,2,3.0,Average,Yes,No,No,2024,183.7,12.25
+SKR-1797,Barrage Colony,8.0,4,4.0,2,8.0,Average,Yes,No,No,2025,121.4,15.18
+SKR-1063,Airport Road,5.0,4,3.0,1,9.0,Excellent,No,Yes,No,2026,97.5,19.5
+SKR-1700,Shikarpur Road,15.0,7,7.0,1,0.0,Excellent,Yes,Yes,No,2025,244.5,16.3
+SKR-1454,Shikarpur Road,20.0,7,7.0,3,-3.0,Average,Yes,No,No,2024,231.1,11.56
+SKR-1516,Rohri,20.0,6,5.0,1,10.0,Average,Yes,Yes,Yes,2026,156.5,7.82
+SKR-1571,Shikarpur Road,7.0,3,3.0,3,27.0,Good,No,No,Yes,2025,85.2,12.17
+SKR-1224,Airport Road,12.0,4,3.0,3,14.0,Excellent,Yes,No,No,2026,214.1,17.84
+SKR-1614,Shikarpur Road,8.0,3,3.0,1,12.0,Average,Yes,No,No,2026,94.9,11.86
+SKR-1222,Airport Road,7.0,4,4.0,2,10.0,Good,No,No,No,2026,106.0,15.14
+SKR-1745,Shikarpur Road,5.0,3,3.0,1,20.0,Good,No,No,Yes,2025,53.1,10.62
+SKR-1818,Old Sukkur,10.0,3,3.0,2,16.0,Average,Yes,No,Yes,2026,111.9,11.19
+SKR-1466,Military Road,8.0,4,4.0,1,21.0,Poor,No,No,No,2025,88.8,11.1
+SKR-1053,Airport Road,12.0,4,3.0,1,7.0,,Yes,No,No,2025,161.8,13.48
+SKR-2109,Shikarpur Road,5.0,3,2.0,2,5.0,Poor,No,Yes,No,2025,57.9,11.58
+SKR-1486,Rohri,7.0,3,3.0,1,8.0,Poor,Yes,Yes,No,2024,59.2,8.46
+SKR-2156,Military Road,20.0,8,7.0,2,4.0,Excellent,Yes,No,No,2024,429.0,21.45
+SKR-1946,Bunder Road,12.0,5,4.0,2,27.0,Poor,No,No,No,2024,155.1,12.92
+SKR-1156,Military Road,10.0,3,2.0,2,14.0,Good,No,No,No,2024,173.1,17.31
+SKR-1944,Military Road,8.0,4,3.0,2,10.0,Good,No,No,Yes,2026,163.0,20.38
+SKR-1601,Airport Road,10.0,3,3.0,2,23.0,Good,Yes,No,Yes,2026,153.7,15.37
+SKR-1902,Rohri,7.0,4,3.0,3,28.0,Poor,Yes,No,No,2025,58.8,8.4
+SKR-1249,Military Road,15.0,4,3.0,2,5.0,Excellent,Yes,No,Yes,2025,301.3,20.09
+SKR-1442,Airport Road,4.0,3,3.0,2,17.0,Poor,No,No,Yes,2024,48.0,12.0
+SKR-2012,Barrage Colony,4.0,3,3.0,1,27.0,Good,No,No,No,2026,67.5,16.88
+SKR-2112,Old Sukkur,7.0,3,2.0,1,16.0,Average,No,No,No,2026,54.5,7.79
+SKR-1543,Old Sukkur,8.0,4,3.0,2,4.0,Average,Yes,No,No,2026,92.4,11.55
+SKR-1118,Airport Road,12.0,5,5.0,2,23.0,Poor,No,No,No,2025,133.7,11.14
+SKR-2174,Barrage Colony,12.0,5,4.0,1,28.0,Average,No,No,No,2025,136.0,11.33
+SKR-1629,Rohri,6.0,3,3.0,1,18.0,Good,No,No,No,2024,40.5,6.75
+SKR-1734,Military Road,7.0,4,4.0,2,13.0,Average,Yes,Yes,Yes,2025,139.6,19.94
+SKR-1948,Military Road,20.0,8,8.0,2,45.0,Poor,No,No,Yes,2026,258.3,12.92
+SKR-1292,Barrage Colony,7.0,3,2.0,1,5.0,Excellent,Yes,No,Yes,2024,108.7,15.53
+SKR-2056,Barrage Colony,6.0,2,1.0,1,24.0,Good,No,No,No,2025,84.1,14.02
+SKR-1382,Airport Road,8.0,3,2.0,2,,Good,Yes,No,Yes,2026,138.3,17.29
+SKR-1904,Barrage Colony,12.0,4,3.0,2,38.0,Poor,Yes,No,Yes,2025,123.0,10.25
+SKR-1837,Old Sukkur,5.0,3,3.0,1,2.0,Average,Yes,No,Yes,2024,50.5,10.1
+SKR-1201,Old Sukkur,8.0,3,3.0,2,,Average,No,No,Yes,2025,79.8,9.98
+SKR-1597,Old Sukkur,12.0,5,4.0,2,11.0,Average,No,No,No,2025,113.5,9.46
+SKR-2013,Barrage Colony,7.0,3,2.0,2,15.0,Average,No,No,Yes,2025,105.1,15.01
+SKR-2153,Shikarpur Road,7.0,3,3.0,2,45.0,Poor,Yes,No,Yes,2024,68.0,9.71
+SKR-1284,Shikarpur Road,5.0,2,1.0,2,6.0,Average,No,No,Yes,2025,60.2,12.04
+SKR-1713,Military Road,10.0,5,,1,14.0,Poor,Yes,No,No,2026,129.8,12.98
+SKR-1506,Bunder Road,5.0,3,2.0,1,8.0,Good,No,No,No,2026,108.4,21.68
+SKR-1349,Military Road,5.0,3,3.0,2,27.0,Good,No,No,No,2024,81.9,16.38
+SKR-2034,Shikarpur Road,15.0,6,6.0,2,3.0,Average,Yes,No,No,2024,183.7,12.25
+SKR-1538,Military Road,6.0,1,1.0,2,18.0,Average,Yes,Yes,Yes,2026,111.4,18.57
+SKR-1341,Rohri,5.0,3,3.0,2,5.0,Excellent,No,No,No,2025,51.6,10.32
+SKR-1616,Shikarpur Road,10.0,4,3.0,1,17.0,Poor,Yes,No,No,2024,80.0,8.0
+SKR-1155,Shikarpur Road,5.0,2,,1,13.0,Average,No,No,No,2025,45.1,9.02
+SKR-2120,Shikarpur Road,10.0,5,4.0,3,17.0,Excellent,Yes,No,No,2026,142.5,14.25
+SKR-1786,Old Sukkur,5.0,1,1.0,2,24.0,Good,Yes,No,No,2024,43.1,8.62
+SKR-1078,Rohri,5.0,1,,2,14.0,Excellent,No,No,No,2026,50.6,10.12
+SKR-1288,Rohri,15.0,6,6.0,2,6.0,Good,Yes,No,No,2024,144.5,9.63
+SKR-1323,Barrage Colony,12.0,5,4.0,1,39.0,Poor,Yes,No,No,2024,122.9,10.24
+SKR-2147,Airport Road,8.0,4,4.0,1,5.0,Excellent,Yes,Yes,No,2025,135.3,16.91
+SKR-1844,Bunder Road,3.0,2,2.0,1,13.0,Good,No,No,Yes,2026,71.4,23.8
+SKR-1821,Bunder Road,12.0,4,3.0,3,16.0,Average,Yes,No,Yes,2025,262.1,21.84
+SKR-1083,Airport Road,10.0,4,,3,14.0,Average,No,Yes,Yes,2024,144.4,14.44
+SKR-1817,Old Sukkur,5.0,3,3.0,1,27.0,Average,Yes,No,No,2026,47.9,9.58
+SKR-1465,Bunder Road,5.0,2,1.0,1,14.0,Average,Yes,No,No,2024,77.7,15.54
+SKR-1935,Bunder Road,12.0,6,6.0,2,16.0,Good,Yes,Yes,No,2024,270.8,22.57
+SKR-1780,Rohri,5.0,3,2.0,2,11.0,Poor,No,No,Yes,2025,43.9,8.78
+SKR-2186,Barrage Colony,12.0,4,4.0,2,1.0,Good,Yes,No,No,2025,188.9,15.74
+SKR-1795,Rohri,5.0,3,,2,8.0,Average,Yes,Yes,Yes,2025,59.8,11.96
+SKR-1334,Shikarpur Road,5.0,3,3.0,2,12.0,Good,No,No,No,2024,51.3,10.26
+SKR-1011,Rohri,15.0,6,6.0,1,2.0,Good,Yes,No,Yes,2025,143.1,9.54
+SKR-1471,Barrage Colony,3.0,2,1.0,2,5.0,Average,No,No,Yes,2024,41.1,13.7
+SKR-1033,Old Sukkur,5.0,3,3.0,2,11.0,Average,No,No,No,2026,60.2,12.04
+SKR-1191,Military Road,4.0,3,2.0,1,22.0,Average,No,No,No,2025,63.7,15.92
+SKR-1414,shikarpur road,20.0,8,8.0,2,7.0,Average,No,No,Yes,2025,237.4,11.87
+SKR-1581,Shikarpur Road,4.0,2,2.0,2,10.0,Average,No,No,No,2026,49.3,12.32
+SKR-1383,Airport Road,8.0,4,4.0,2,8.0,Good,No,No,No,2025,134.0,16.75
+SKR-2107,Barrage Colony,8.0,5,4.0,2,11.0,Good,No,Yes,No,2025,134.2,16.77
+SKR-1784,Airport Road,15.0,6,5.0,2,26.0,Good,Yes,No,No,2024,200.3,13.35
+SKR-2149,Barrage Colony,5.0,3,3.0,2,7.0,Good,No,No,No,2025,84.7,16.94
+SKR-1883,Old Sukkur,4.0,1,1.0,1,10.0,Excellent,No,No,No,2026,42.7,10.68
+SKR-2158,SHIKARPUR ROAD,10.0,3,3.0,2,20.0,Poor,Yes,Yes,No,2025,92.8,9.28
+SKR-1379,Bunder Road,5.0,3,2.0,1,9.0,Good,No,No,No,2025,97.4,19.48
+SKR-1090,Rohri,5.0,2,2.0,1,25.0,Average,No,No,No,2025,33.9,6.78
+SKR-1816,Military Road,4.0,2,1.0,2,22.0,Poor,Yes,Yes,Yes,2025,69.7,17.42
+SKR-1602,Old Sukkur,4.0,2,2.0,1,13.0,Average,No,Yes,No,2025,42.3,10.58
+SKR-1214,Barrage Colony,6.0,4,3.0,1,13.0,Good,Yes,No,Yes,2025,99.1,16.52
+SKR-1333,Barrage Colony,10.0,4,3.0,2,15.0,Average,No,No,No,2025,148.5,14.85
+SKR-1134,Rohri,8.0,2,2.0,1,7.0,Poor,Yes,No,Yes,2025,57.4,7.18
+SKR-1347,Airport Road,10.0,3,2.0,1,6.0,Excellent,Yes,No,Yes,2026,154.6,15.46
+SKR-1881,Airport Road,6.0,2,2.0,1,17.0,Good,No,Yes,No,2026,100.6,16.77
+SKR-1008,Bunder Road,10.0,5,4.0,2,4.0,Average,No,No,No,2024,176.6,17.66
+SKR-1864,Shikarpur Road,8.0,4,3.0,2,12.0,Good,Yes,No,Yes,2025,106.4,13.3
+SKR-1321,Old Sukkur,3.0,2,1.0,2,5.0,Excellent,No,No,No,2024,30.9,10.3
+SKR-2059,Military Road,5.0,2,2.0,2,28.0,Excellent,Yes,No,Yes,2024,92.8,18.56
+SKR-1188,Military Road,8.0,3,3.0,1,,Poor,No,No,No,2026,103.9,12.99
+SKR-2009,Old Sukkur,5.0,4,4.0,2,8.0,Good,Yes,No,Yes,2026,76.5,15.3
+SKR-1553,Airport Road,6.0,3,3.0,1,41.0,Average,Yes,No,Yes,2025,71.2,11.87
+SKR-1305,Bunder Road,10.0,4,4.0,2,22.0,Poor,No,No,No,2024,133.5,13.35
+SKR-1032,Old Sukkur,15.0,5,5.0,2,13.0,Good,Yes,No,No,2026,177.5,11.83
+SKR-1857,Rohri,10.0,5,5.0,2,23.0,Poor,No,No,No,2025,75.2,7.52
+SKR-1685,Airport Road,4.0,2,1.0,1,6.0,Good,No,No,No,2024,45.9,11.48
+SKR-2081,Rohri,3.0,2,1.0,1,11.0,Good,No,No,No,2024,22.5,7.5
+SKR-1241,Old Sukkur,3.0,3,2.0,2,6.0,Excellent,No,No,No,2024,34.7,11.57
+SKR-1068,Barrage Colony,6.0,3,3.0,1,12.0,Good,No,Yes,No,2025,111.3,18.55
+SKR-1175,Rohri,5.0,4,3.0,2,22.0,Average,No,No,No,2024,42.9,8.58
+SKR-1767,Bunder Road,5.0,3,2.0,1,6.0,Excellent,No,Yes,Yes,2024,113.2,22.64
+SKR-1246,Military Road,8.0,3,3.0,1,7.0,Good,No,Yes,No,2025,148.7,18.59
+SKR-1057,Shikarpur Road,7.0,3,2.0,2,6.0,Good,No,No,Yes,2024,84.3,12.04
+SKR-1631,Bunder Road,5.0,3,2.0,1,2.0,Good,No,No,No,2026,109.8,21.96
+SKR-1584,Shikarpur Road,5.0,2,2.0,1,4.0,Average,Yes,No,No,2025,59.6,11.92
+SKR-2040,Bunder Road,15.0,6,6.0,2,6.0,Average,Yes,No,No,2025,298.6,19.91
+SKR-1146,Bunder Road,7.0,3,2.0,3,8.0,Excellent,Yes,No,No,2025,196.7,28.1
+SKR-1091,Rohri,5.0,2,2.0,1,9.0,Average,No,Yes,Yes,2025,40.1,8.02
+SKR-2130,Airport Road,4.0,3,3.0,1,7.0,Average,No,No,Yes,2026,61.8,15.45
+SKR-1393,Shikarpur Road,5.0,3,3.0,1,6.0,Poor,Yes,No,No,2024,44.4,8.88
+SKR-1875,Shikarpur Road,12.0,5,4.0,2,2.0,Good,No,Yes,No,2026,160.3,13.36
+SKR-1683,Old Sukkur,8.0,5,5.0,2,7.0,Average,No,No,Yes,2024,95.4,11.92
+SKR-1311,Bunder Road,4.0,2,2.0,2,8.0,Good,Yes,No,Yes,2024,92.4,23.1
+SKR-1360,Airport Road,4.0,2,2.0,2,4.0,Average,Yes,No,No,2024,60.1,15.02
+SKR-1094,Old Sukkur,5.0,3,2.0,1,4.0,Average,No,No,No,2026,42.9,8.58
+SKR-1982,Shikarpur Road,5.0,3,2.0,1,5.0,Good,Yes,Yes,Yes,2025,70.5,14.1
+SKR-2039,Shikarpur Road,4.0,4,3.0,1,22.0,Average,No,No,No,2025,37.1,9.28
+SKR-1377,Rohri,8.0,2,2.0,2,10.0,Good,No,No,No,2026,74.7,9.34
+SKR-1244,Airport Road,12.0,6,6.0,1,5.0,Good,Yes,No,No,2024,172.5,14.38
+SKR-2092,Barrage Colony,5.0,3,3.0,2,4.0,Good,Yes,No,Yes,2026,113.2,22.64
+SKR-1088,Shikarpur Road,5.0,3,2.0,2,4.0,Good,No,No,No,2026,70.5,14.1
+SKR-1215,Military Road,8.0,4,3.0,1,15.0,Good,Yes,No,Yes,2024,153.8,19.23
+SKR-1445,Barrage Colony,3.0,2,1.0,2,9.0,Good,No,No,No,2024,46.8,15.6
+SKR-1174,Rohri,8.0,4,3.0,2,5.0,Good,No,No,No,2024,75.4,9.43
+SKR-1426,Bunder Road,8.0,4,4.0,2,36.0,Poor,No,No,No,2026,126.3,15.79
+SKR-2055,Barrage Colony,4.0,3,3.0,2,31.0,Poor,No,No,No,2025,56.7,14.18
+SKR-1119,Bunder Road,10.0,4,3.0,2,8.0,Good,Yes,No,No,2026,228.6,22.86
+SKR-1120,Airport Road,15.0,6,6.0,2,22.0,Poor,Yes,No,No,2025,178.0,11.87
+SKR-1940,Barrage Colony,4.0,2,1.0,1,7.0,Poor,No,No,No,2026,47.7,11.92
+SKR-1894,Old Sukkur,7.0,4,3.0,2,45.0,Good,Yes,No,No,2026,70.4,10.06
+SKR-1001,Bunder Road,6.0,2,1.0,2,10.0,Good,No,No,Yes,2026,132.1,22.02
+SKR-1395,Shikarpur Road,12.0,5,5.0,2,15.0,Good,No,No,No,2026,155.5,12.96
+SKR-1402,Bunder Road,4.0,3,3.0,1,7.0,Good,Yes,Yes,Yes,2024,92.5,23.12
+SKR-1405,Military Road,4.0,2,2.0,2,14.0,Average,No,No,Yes,2025,77.0,19.25
+SKR-1862,Shikarpur Road,4.0,4,3.0,1,14.0,Average,No,No,Yes,2024,41.0,10.25
+SKR-1873,Shikarpur Road,4.0,2,2.0,2,21.0,Good,No,No,No,2025,49.4,12.35
+SKR-1163,Bunder Road,3.0,1,1.0,1,18.0,Average,Yes,Yes,No,2025,59.3,19.77
+SKR-1115,Bunder Road,8.0,4,,1,14.0,Average,Yes,No,No,2026,156.9,19.61
+SKR-1671,Rohri,20.0,7,7.0,1,5.0,Average,Yes,No,No,2025,168.8,8.44
+SKR-1151,Rohri,4.0,2,2.0,1,10.0,Good,No,No,No,2026,34.4,8.6
+SKR-1962,Airport Road,5.0,3,2.0,2,5.0,Average,No,Yes,No,2026,86.2,17.24
+SKR-1829,Rohri,10.0,4,4.0,2,9.0,Average,No,No,Yes,2025,93.7,9.37
+SKR-1562,Barrage Colony,12.0,5,4.0,1,19.0,Average,Yes,No,No,2024,144.8,12.07
+SKR-1369,Rohri,8.0,3,3.0,1,13.0,Average,Yes,No,Yes,2025,71.5,8.94
+SKR-1544,Military Road,10.0,4,4.0,2,13.0,Average,Yes,No,No,2024,144.8,14.48
+SKR-1478,Rohri,7.0,4,3.0,2,5.0,Average,Yes,No,No,2025,71.0,10.14
+SKR-2144,Military Road,8.0,3,2.0,2,,Good,Yes,No,No,2025,145.7,18.21
+SKR-1533,military road,5.0,3,3.0,1,13.0,Average,No,No,No,2026,76.6,15.32
+SKR-1626,Shikarpur Road,7.0,4,4.0,3,21.0,Poor,Yes,No,No,2026,83.2,11.89
+SKR-2121,Shikarpur Road,10.0,4,4.0,3,24.0,Poor,No,Yes,No,2024,103.9,10.39
+SKR-1513,Rohri,7.0,3,2.0,2,15.0,Average,Yes,No,No,2025,62.0,8.86
+SKR-1826,Shikarpur Road,3.0,2,1.0,1,11.0,Excellent,No,Yes,No,2026,38.7,12.9
+SKR-1073,Old Sukkur,4.0,4,4.0,1,13.0,Average,No,Yes,No,2026,43.5,10.88
+SKR-1808,Old Sukkur,10.0,4,3.0,2,15.0,Average,No,Yes,Yes,2025,107.2,10.72
+SKR-1259,Rohri,6.0,1,1.0,1,6.0,Good,No,No,No,2026,50.6,8.43
+SKR-1625,Old Sukkur,3.0,2,2.0,1,24.0,Good,No,Yes,Yes,2026,34.2,11.4
+SKR-1235,Airport Road,4.0,3,2.0,1,8.0,Average,No,No,No,2025,51.9,12.98
+SKR-1136,Shikarpur Road,8.0,4,4.0,2,6.0,,Yes,No,No,2024,90.8,11.35
+SKR-1617,Airport Road,5.0,3,3.0,1,20.0,Average,No,Yes,No,2026,73.4,14.68
+SKR-1517,Airport Road,10.0,3,3.0,2,45.0,Poor,Yes,No,No,2026,115.9,11.59
+SKR-1893,Barrage Colony,10.0,4,4.0,1,18.0,Good,Yes,No,No,2024,137.0,13.7
+SKR-1803,Old Sukkur,5.0,2,2.0,1,3.0,Good,Yes,No,No,2025,52.7,10.54
+SKR-1810,Rohri,10.0,4,4.0,2,15.0,Poor,Yes,Yes,Yes,2026,105.6,10.56
+SKR-1593,Rohri,5.0,3,,1,7.0,Excellent,No,No,Yes,2024,46.2,9.24
+SKR-2071,Military Road,8.0,4,4.0,2,17.0,Good,No,Yes,Yes,2026,182.0,22.75
+SKR-1502,Bunder Road,6.0,2,1.0,2,13.0,Average,No,No,No,2026,116.1,19.35
+SKR-1539,Old Sukkur,4.0,2,2.0,1,10.0,Average,Yes,No,Yes,2025,45.3,11.32
+SKR-1927,Military Road,3.0,1,1.0,2,13.0,Good,No,No,No,2024,44.6,14.87
+SKR-1729,Shikarpur Road,7.0,3,2.0,2,12.0,Average,Yes,No,No,2024,71.9,10.27
+SKR-1582,Military Road,5.0,3,3.0,1,12.0,Average,Yes,Yes,No,2025,72.8,14.56
+SKR-1344,Shikarpur Road,10.0,6,5.0,1,8.0,Average,No,No,No,2026,115.2,11.52
+SKR-1957,Old Sukkur,20.0,8,8.0,2,8.0,Excellent,No,No,No,2026,235.4,11.77
+SKR-1979,barrage colony,6.0,4,4.0,2,20.0,Average,No,No,No,2025,89.9,14.98
+SKR-1294,Airport Road,10.0,4,4.0,1,19.0,Good,Yes,No,Yes,2026,176.2,17.62
+SKR-1365,Rohri,5.0,3,2.0,1,11.0,Average,Yes,No,No,2024,42.9,8.58
+SKR-1880,Airport Road,6.0,2,2.0,2,9.0,Good,Yes,No,No,2026,102.9,17.15
+SKR-1660,Rohri,6.0,3,2.0,1,7.0,Average,No,No,No,2024,37.1,6.18
+SKR-1015,Airport Road,3.0,2,1.0,1,13.0,Good,No,No,Yes,2026,43.6,14.53
+SKR-1687,Old Sukkur,8.0,4,3.0,1,17.0,Average,No,No,No,2025,69.8,8.72
+SKR-1087,Airport Road,10.0,4,4.0,2,13.0,Good,Yes,No,No,2026,159.2,15.92
+SKR-1371,BARRAGE COLONY,10.0,4,4.0,2,3.0,Average,Yes,No,Yes,2025,174.4,17.44
+SKR-1166,Military Road,15.0,5,4.0,2,,Excellent,Yes,No,No,2026,323.3,21.55
+SKR-1132,Shikarpur Road,10.0,3,2.0,2,9.0,Excellent,No,No,No,2025,121.0,12.1
+SKR-1336,Barrage Colony,5.0,4,3.0,1,12.0,Average,No,No,No,2024,69.5,13.9
+SKR-1060,Old Sukkur,7.0,3,3.0,2,19.0,Average,No,No,No,2025,64.1,9.16
+SKR-1710,Barrage Colony,3.0,2,2.0,1,8.0,Good,No,No,No,2025,49.4,16.47
+SKR-1677,Barrage Colony,5.0,2,1.0,1,13.0,Good,No,No,No,2024,65.0,13.0
+SKR-1355,Military Road,7.0,3,3.0,3,9.0,Average,No,No,No,2025,133.7,19.1
+SKR-1994,Old Sukkur,7.0,2,2.0,2,12.0,Poor,Yes,No,No,2024,58.3,8.33
+SKR-1425,Barrage Colony,20.0,7,7.0,2,45.0,Poor,Yes,Yes,No,2025,218.2,10.91
+SKR-1293,Rohri,12.0,6,5.0,2,7.0,Average,Yes,No,Yes,2025,106.2,8.85
+SKR-1042,BARRAGE COLONY,10.0,3,,2,22.0,Average,Yes,Yes,Yes,2025,175.9,17.59
+SKR-1330,Old Sukkur,15.0,6,6.0,3,13.0,Average,Yes,No,No,2024,155.7,10.38
+SKR-1615,Old Sukkur,5.0,3,3.0,1,19.0,Average,No,No,No,2025,41.4,8.28
+SKR-1430,Rohri,15.0,6,6.0,1,12.0,Good,No,No,No,2024,116.0,7.73
+SKR-1080,Barrage Colony,8.0,2,1.0,2,28.0,Average,No,No,No,2025,110.9,13.86
+SKR-1694,Airport Road,6.0,4,3.0,1,20.0,Average,Yes,No,No,2025,77.8,12.97
+SKR-1029,Airport Road,10.0,5,,2,9.0,Good,Yes,No,Yes,2024,155.7,15.57
+SKR-1708,Shikarpur Road,7.0,3,2.0,1,22.0,Average,No,No,Yes,2024,58.3,8.33
+SKR-1928,Barrage Colony,10.0,3,2.0,2,14.0,Average,Yes,No,No,2026,153.9,15.39
+SKR-1922,Airport Road,5.0,2,1.0,1,9.0,Average,No,No,No,2024,51.4,10.28
+SKR-1255,Shikarpur Road,3.0,2,1.0,1,7.0,Average,No,No,No,2025,29.7,9.9
+SKR-1161,Airport Road,10.0,4,4.0,2,9.0,Good,Yes,No,Yes,2026,185.3,18.53
+SKR-1459,Bunder Road,5.0,1,1.0,2,7.0,Excellent,Yes,Yes,Yes,2026,137.3,27.46
+SKR-1384,Military Road,12.0,4,3.0,2,12.0,Excellent,Yes,No,Yes,2026,278.3,23.19
+SKR-1314,Rohri,6.0,4,4.0,2,4.0,Good,No,No,No,2026,75.0,12.5
+SKR-1085,Military Road,10.0,3,2.0,1,20.0,Good,No,No,Yes,2024,128.9,12.89
+SKR-1575,Bunder Road,7.0,3,2.0,2,15.0,Good,No,No,Yes,2024,152.5,21.79
+SKR-1763,Airport Road,4.0,2,2.0,1,32.0,Poor,Yes,No,No,2026,46.9,11.72
+SKR-1137,Shikarpur Road,7.0,3,3.0,2,8.0,Average,Yes,No,Yes,2026,95.4,13.63
+SKR-1112,Barrage Colony,20.0,7,6.0,2,1.0,Good,No,No,No,2026,367.7,18.38
+SKR-1195,Shikarpur Road,12.0,4,4.0,2,7.0,Excellent,Yes,No,No,2024,135.4,11.28
+SKR-1853,Airport Road,8.0,3,3.0,1,15.0,Average,Yes,No,No,2025,106.8,13.35
+SKR-1179,Old Sukkur,5.0,2,2.0,2,12.0,Excellent,Yes,No,No,2025,60.1,12.02
+SKR-1556,Old Sukkur,6.0,4,4.0,1,9.0,Average,No,Yes,No,2024,60.8,10.13
+SKR-1724,Rohri,5.0,2,2.0,1,8.0,Average,No,No,No,2026,42.8,8.56
+SKR-2024,Airport Road,5.0,4,3.0,1,18.0,Average,No,No,No,2026,66.0,13.2
+SKR-1497,Shikarpur Road,15.0,4,4.0,2,24.0,Average,Yes,No,Yes,2025,148.4,9.89
+SKR-1886,Bunder Road,7.0,3,2.0,2,2.0,Excellent,Yes,Yes,No,2026,214.3,30.61
+SKR-1806,Airport Road,15.0,6,5.0,1,6.0,Average,Yes,No,No,2026,197.9,13.19
+SKR-1130,Airport Road,5.0,2,1.0,1,16.0,Poor,No,No,Yes,2024,48.4,9.68
+SKR-1716,Airport Road,12.0,3,3.0,1,36.0,Average,Yes,No,Yes,2024,116.5,9.71
+SKR-1338,Airport Road,7.0,4,3.0,2,22.0,,No,No,Yes,2024,97.5,13.93
+SKR-2084,Military Road,6.0,4,4.0,1,14.0,Average,No,No,No,2025,92.8,15.47
+SKR-1609,Shikarpur Road,5.0,4,4.0,1,8.0,Excellent,Yes,Yes,No,2024,70.3,14.06
+SKR-1125,Barrage Colony,15.0,6,5.0,2,26.0,Average,Yes,No,No,2025,231.2,15.41
+SKR-1196,Airport Road,10.0,4,3.0,1,13.0,Good,No,No,No,2024,119.4,11.94
+SKR-1227,Shikarpur Road,8.0,4,4.0,1,19.0,Poor,Yes,No,Yes,2024,73.2,9.15
+SKR-1690,Rohri,10.0,5,5.0,2,26.0,Average,Yes,No,Yes,2024,87.1,8.71
+SKR-1269,Old Sukkur,15.0,5,5.0,1,13.0,Average,Yes,No,No,2026,126.4,8.43
+SKR-1153,Shikarpur Road,6.0,3,3.0,2,16.0,Average,No,No,No,2025,61.4,10.23
+SKR-1585,Barrage Colony,3.0,1,1.0,2,5.0,Good,No,Yes,No,2024,42.0,14.0
+SKR-2169,Military Road,8.0,5,4.0,2,3.0,Average,Yes,Yes,Yes,2025,156.3,19.54
+SKR-1104,Barrage Colony,12.0,5,4.0,1,6.0,Average,Yes,No,Yes,2026,200.5,16.71
+SKR-1594,Bunder Road,12.0,6,5.0,1,12.0,Poor,Yes,No,No,2026,181.1,15.09
+SKR-2113,Airport Road,7.0,3,,2,4.0,Excellent,No,No,Yes,2024,124.9,17.84
+SKR-1787,Old Sukkur,15.0,6,6.0,1,8.0,Average,Yes,No,No,2024,117.0,7.8
+SKR-1999,Bunder Road,12.0,5,5.0,2,22.0,Average,Yes,Yes,No,2025,247.0,20.58
+SKR-1885,Bunder Road,7.0,4,3.0,2,4.0,Good,Yes,No,No,2026,165.9,23.7
+SKR-1777,Old Sukkur,20.0,8,8.0,1,6.0,Average,Yes,No,Yes,2025,195.9,9.8
+SKR-1930,Airport Road,5.0,4,3.0,1,2.0,Good,Yes,No,No,2025,80.9,16.18
+SKR-1850,Military Road,12.0,3,2.0,1,8.0,Good,Yes,No,No,2024,162.3,13.52
+SKR-1895,Old Sukkur,4.0,2,2.0,2,3.0,Good,No,No,Yes,2025,51.5,12.88
+SKR-1228,Rohri,15.0,7,7.0,2,,Good,Yes,No,No,2026,177.8,11.85
+SKR-2135,Rohri,20.0,8,7.0,2,23.0,Average,No,No,No,2026,170.1,8.5
+SKR-1302,Barrage Colony,7.0,4,4.0,3,8.0,Average,No,No,No,2024,110.2,15.74
+SKR-1855,Barrage Colony,5.0,2,2.0,2,16.0,Poor,Yes,No,No,2025,72.0,14.4
+SKR-1276,Shikarpur Road,6.0,2,1.0,2,2.0,Good,No,No,No,2026,76.0,12.67
+SKR-1127,Shikarpur Road,4.0,2,2.0,1,30.0,Average,No,No,Yes,2026,41.7,10.42
+SKR-1406,Shikarpur Road,10.0,4,4.0,2,4.0,,Yes,No,No,2024,124.5,12.45
+SKR-1776,Airport Road,12.0,4,3.0,1,25.0,Average,Yes,No,No,2026,128.2,10.68
+SKR-1822,Old Sukkur,5.0,2,2.0,2,6.0,Poor,No,Yes,Yes,2024,45.6,9.12
+SKR-1712,Rohri,3.0,1,1.0,1,12.0,Average,No,No,No,2026,23.9,7.97
+SKR-1766,Airport Road,7.0,3,2.0,2,9.0,Average,Yes,Yes,Yes,2024,105.0,15.0
+SKR-1684,Shikarpur Road,5.0,2,2.0,1,24.0,Good,Yes,No,Yes,2024,55.2,11.04
+SKR-1750,Old Sukkur,8.0,2,2.0,2,20.0,Poor,Yes,Yes,No,2024,59.3,7.41
+SKR-2138,Shikarpur Road,3.0,1,,2,11.0,Average,No,No,No,2026,31.3,10.43
+SKR-1037,Airport Road,7.0,4,4.0,1,14.0,Excellent,Yes,Yes,No,2024,106.2,15.17
+SKR-1140,Shikarpur Road,5.0,3,2.0,1,11.0,Good,Yes,No,No,2025,61.3,12.26
+SKR-1304,Airport Road,10.0,5,5.0,2,14.0,Good,No,No,No,2025,153.8,15.38
+SKR-1268,Military Road,4.0,2,1.0,1,,,Yes,No,No,2024,60.7,15.18
+SKR-1835,Military Road,5.0,3,3.0,1,6.0,Excellent,No,Yes,No,2026,118.6,23.72
+SKR-1534,Rohri,10.0,3,2.0,2,13.0,Excellent,Yes,Yes,No,2026,115.1,11.51
+SKR-1546,Airport Road,10.0,5,5.0,3,11.0,Good,Yes,No,Yes,2024,159.3,15.93
+SKR-1213,Bunder Road,3.0,2,1.0,1,16.0,Good,Yes,No,No,2025,61.5,20.5
+SKR-1897,Rohri,5.0,3,3.0,1,36.0,Good,Yes,No,Yes,2026,50.1,10.02
+SKR-1469,Military Road,5.0,3,3.0,1,7.0,Average,Yes,No,No,2024,93.8,18.76
+SKR-1199,Bunder Road,7.0,4,3.0,2,9.0,Good,Yes,Yes,Yes,2026,195.7,27.96
+SKR-2041,Rohri,15.0,6,6.0,2,33.0,Average,Yes,No,No,2025,110.5,7.37
+SKR-1868,Military Road,8.0,3,2.0,2,6.0,Good,Yes,Yes,No,2025,164.2,20.52
+SKR-1673,Old Sukkur,4.0,1,1.0,2,13.0,Average,Yes,No,No,2026,39.4,9.85
+SKR-1917,Military Road,3.0,2,1.0,2,1.0,Excellent,No,No,Yes,2024,66.0,22.0
+SKR-1528,Rohri,3.0,3,2.0,2,23.0,Average,Yes,No,Yes,2024,37.5,12.5
+SKR-1676,Military Road,3.0,3,2.0,1,8.0,Average,No,No,Yes,2026,60.2,20.07
+SKR-2073,Bunder Road,3.0,2,1.0,2,11.0,Average,No,No,No,2026,57.4,19.13
+SKR-1815,Military Road,6.0,2,1.0,2,6.0,Excellent,No,No,No,2026,111.7,18.62
+SKR-1242,Rohri,4.0,2,2.0,2,14.0,Good,No,No,No,2024,37.6,9.4
+SKR-1343,Military Road,5.0,2,2.0,1,12.0,Average,Yes,Yes,No,2024,74.5,14.9
+SKR-1550,Old Sukkur,3.0,3,2.0,1,31.0,Good,No,No,No,2025,24.5,8.17
+SKR-1387,Bunder Road,8.0,3,2.0,2,3.0,Average,No,No,No,2026,174.2,21.78
+SKR-2117,Military Road,7.0,3,3.0,3,5.0,Good,Yes,No,No,2026,160.3,22.9
+SKR-1207,Military Road,5.0,2,2.0,2,20.0,Poor,No,Yes,Yes,2026,85.2,17.04
+SKR-1296,Airport Road,7.0,2,2.0,2,12.0,Good,No,No,No,2026,109.1,15.59
+SKR-1696,Old Sukkur,12.0,5,5.0,2,4.0,Excellent,Yes,No,No,2024,124.9,10.41
+SKR-2052,Barrage Colony,5.0,1,1.0,1,11.0,Average,No,No,No,2025,69.0,13.8
+SKR-1074,Rohri,6.0,3,3.0,2,13.0,Good,No,No,No,2025,56.2,9.37
+SKR-1606,Airport Road,6.0,3,3.0,1,14.0,Average,No,Yes,No,2025,70.8,11.8
+SKR-1105,Old Sukkur,20.0,7,7.0,1,6.0,Good,Yes,No,No,2025,195.7,9.78
+SKR-1976,Barrage Colony,6.0,5,5.0,2,9.0,Excellent,No,No,Yes,2024,113.7,18.95
+SKR-2006,Military Road,6.0,2,1.0,1,13.0,Average,Yes,No,No,2025,84.8,14.13
+SKR-2184,Airport Road,10.0,5,5.0,2,14.0,Good,Yes,No,No,2024,141.5,14.15
+SKR-1017,Airport Road,4.0,3,,1,,Excellent,No,No,No,2026,55.1,13.78
+SKR-1440,Barrage Colony,10.0,4,4.0,1,6.0,Average,Yes,Yes,Yes,2024,146.4,14.64
+SKR-1092,Bunder Road,5.0,4,3.0,1,27.0,Good,Yes,No,Yes,2025,102.0,20.4
+SKR-1089,Airport Road,10.0,5,5.0,1,7.0,Good,Yes,Yes,Yes,2025,177.7,17.77
+SKR-2051,Military Road,8.0,3,2.0,2,18.0,Average,No,No,No,2024,117.4,14.68
+SKR-1909,Barrage Colony,12.0,4,4.0,2,14.0,Average,Yes,No,No,2026,179.7,14.98
+SKR-1451,Rohri,4.0,2,2.0,2,5.0,Average,Yes,Yes,No,2026,49.6,12.4
+SKR-1718,shikarpur road,3.0,2,1.0,2,12.0,Poor,Yes,No,No,2024,32.8,10.93
+SKR-1103,Shikarpur Road,15.0,6,6.0,2,19.0,Average,Yes,No,No,2024,155.5,10.37
+SKR-1239,Barrage Colony,6.0,3,,1,4.0,Excellent,No,No,No,2025,115.8,19.3
+SKR-2023,Bunder Road,15.0,5,4.0,1,5.0,Good,Yes,No,No,2025,329.2,21.95
+SKR-1943,Shikarpur Road,10.0,4,4.0,2,18.0,Average,Yes,No,No,2025,101.1,10.11
+SKR-1247,Airport Road,20.0,6,5.0,1,8.0,Poor,Yes,No,Yes,2025,223.1,11.16
+SKR-1939,Barrage Colony,7.0,3,2.0,1,42.0,Average,No,No,Yes,2025,84.2,12.03
+SKR-2011,Shikarpur Road,10.0,5,4.0,2,11.0,Average,No,No,No,2024,109.9,10.99
+SKR-1158,Airport Road,6.0,3,2.0,1,11.0,Good,No,No,Yes,2026,81.1,13.52
+SKR-1480,Old Sukkur,5.0,2,2.0,1,31.0,Poor,No,Yes,Yes,2025,32.9,6.58
+SKR-1839,Shikarpur Road,5.0,2,1.0,2,5.0,Good,No,No,No,2024,54.4,10.88
+SKR-1646,Shikarpur Road,10.0,5,4.0,1,12.0,Average,Yes,No,No,2026,123.8,12.38
+SKR-1006,Old Sukkur,8.0,3,2.0,2,4.0,Good,Yes,No,Yes,2026,103.1,12.89
+SKR-2091,Rohri,6.0,4,4.0,2,,Average,Yes,No,No,2026,61.8,10.3
+SKR-1872,Shikarpur Road,3.0,1,1.0,2,24.0,Average,No,No,Yes,2026,33.6,11.2
+SKR-1966,Old Sukkur,12.0,4,4.0,1,13.0,Average,Yes,No,No,2026,116.7,9.72
+SKR-1019,Bunder Road,12.0,5,5.0,3,33.0,Excellent,Yes,No,No,2026,262.1,21.84
+SKR-1998,Bunder Road,10.0,4,3.0,1,23.0,Poor,Yes,No,No,2024,120.9,12.09
+SKR-1122,Rohri,15.0,5,4.0,3,8.0,Average,Yes,Yes,No,2025,160.6,10.71
+SKR-1947,Barrage Colony,4.0,2,1.0,2,2.0,Good,Yes,No,No,2026,83.1,20.78
+SKR-1662,Shikarpur Road,7.0,3,,2,9.0,Poor,No,No,No,2024,63.8,9.11
+SKR-1997,Old Sukkur,3.0,2,1.0,1,24.0,Excellent,No,No,No,2024,26.5,8.83
+SKR-1275,Airport Road,8.0,4,3.0,2,6.0,Poor,No,No,No,2024,86.6,10.82
+SKR-1434,Rohri,5.0,2,2.0,2,6.0,Good,No,No,Yes,2026,46.1,9.22
+SKR-1812,Old Sukkur,10.0,5,4.0,2,36.0,Average,Yes,No,No,2026,90.1,9.01
+SKR-2143,Rohri,3.0,3,2.0,1,12.0,Average,Yes,No,No,2026,32.4,10.8
+SKR-1312,Old Sukkur,15.0,6,6.0,2,2.0,Good,Yes,No,Yes,2025,157.9,10.53
+SKR-2127,Airport Road,4.0,1,1.0,1,13.0,Good,No,No,No,2026,52.1,13.02
+SKR-2139,Airport Road,7.0,3,3.0,2,4.0,Good,Yes,Yes,No,2025,125.5,17.93
+SKR-1781,Shikarpur Road,20.0,7,6.0,1,14.0,Good,Yes,No,No,2026,188.5,9.43
+SKR-1547,Bunder Road,10.0,5,4.0,1,10.0,Excellent,No,Yes,No,2025,233.0,23.3
+SKR-1182,Shikarpur Road,10.0,4,3.0,3,3.0,Excellent,Yes,No,No,2026,143.0,14.3
+SKR-1185,Bunder Road,6.0,2,1.0,1,6.0,Average,No,No,No,2025,106.2,17.7
+SKR-1407,Barrage Colony,6.0,2,2.0,2,5.0,Average,Yes,No,No,2026,108.4,18.07
+SKR-1720,Military Road,6.0,3,3.0,1,6.0,Poor,No,No,No,2026,76.1,12.68
+SKR-2047,Airport Road,7.0,2,1.0,2,11.0,Good,Yes,No,No,2025,93.3,13.33
+SKR-1607,Rohri,6.0,4,3.0,1,13.0,Good,No,Yes,No,2024,47.8,7.97
+SKR-1693,Old Sukkur,10.0,4,4.0,2,34.0,Good,No,Yes,Yes,2026,114.9,11.49
+SKR-1521,Shikarpur Road,12.0,4,3.0,3,14.0,Excellent,No,Yes,Yes,2025,195.3,16.28
+SKR-1866,Military Road,5.0,2,1.0,1,13.0,Good,No,No,No,2024,78.9,15.78
+SKR-2004,Shikarpur Road,3.0,2,1.0,1,6.0,Good,Yes,Yes,No,2026,42.4,14.13
+SKR-1381,Military Road,8.0,4,3.0,2,10.0,Good,No,No,No,2026,154.4,19.3
+SKR-1993,Old Sukkur,20.0,8,8.0,2,12.0,Good,Yes,No,No,2024,199.6,9.98
+SKR-1411,Bunder Road,15.0,5,4.0,2,39.0,Average,Yes,No,No,2024,211.8,14.12
+SKR-1635,Rohri,4.0,3,3.0,1,,Good,Yes,No,Yes,2025,44.7,11.18
+SKR-1370,Bunder Road,3.0,2,2.0,1,26.0,Average,No,Yes,No,2026,55.9,18.63
+SKR-2085,Military Road,8.0,3,3.0,2,12.0,Average,Yes,No,Yes,2025,140.6,17.58
+SKR-2099,Old Sukkur,12.0,5,4.0,1,17.0,Poor,Yes,No,No,2026,99.1,8.26
+SKR-1428,Military Road,7.0,2,1.0,2,3.0,Average,No,No,No,2025,102.4,14.63
+SKR-1877,Military Road,6.0,3,2.0,1,24.0,Average,No,No,No,2024,80.3,13.38
+SKR-1079,Military Road,3.0,2,2.0,1,13.0,Good,Yes,No,Yes,2024,54.1,18.03
+SKR-1863,Military Road,12.0,4,3.0,2,4.0,Good,Yes,Yes,Yes,2025,278.0,23.17
+SKR-1574,Shikarpur Road,4.0,3,2.0,2,16.0,Average,No,No,No,2025,48.4,12.1
+SKR-2010,Military Road,10.0,5,4.0,1,1.0,Average,Yes,Yes,No,2026,219.0,21.9
+SKR-2190,Military Road,5.0,2,2.0,1,20.0,Average,No,No,No,2026,76.5,15.3
+SKR-1638,Shikarpur Road,6.0,2,1.0,1,8.0,Average,Yes,No,No,2025,57.0,9.5
+SKR-1608,Bunder Road,7.0,4,4.0,2,14.0,Good,Yes,Yes,No,2024,130.1,18.59
+SKR-2195,Military Road,10.0,5,4.0,1,13.0,Average,Yes,No,Yes,2026,187.5,18.75
+SKR-1069,Old Sukkur,10.0,4,4.0,1,17.0,Average,Yes,Yes,No,2024,87.8,8.78
+SKR-1860,Barrage Colony,20.0,7,6.0,2,15.0,Poor,Yes,No,No,2026,278.1,13.9
+SKR-2182,Old Sukkur,10.0,5,5.0,2,16.0,Average,Yes,No,No,2025,98.5,9.85
+SKR-2057,Shikarpur Road,4.0,2,2.0,1,10.0,Good,No,Yes,No,2024,49.1,12.28
+SKR-1959,Bunder Road,6.0,2,2.0,1,12.0,Good,Yes,No,Yes,2025,130.4,21.73
+SKR-1560,Airport Road,6.0,4,3.0,1,30.0,Good,No,No,No,2024,70.5,11.75
+SKR-1847,Airport Road,8.0,4,,1,9.0,Average,No,No,No,2025,100.2,12.52
+SKR-1691,Military Road,8.0,3,2.0,2,22.0,Average,Yes,No,No,2024,116.4,14.55
+SKR-2172,Shikarpur Road,6.0,2,1.0,1,1.0,Excellent,No,No,No,2024,58.7,9.78
+SKR-2125,Bunder Road,6.0,3,2.0,1,3.0,Good,No,Yes,Yes,2025,129.2,21.53
+SKR-1437,Old Sukkur,10.0,5,5.0,3,13.0,Average,Yes,No,Yes,2024,117.7,11.77
+SKR-1491,Shikarpur Road,5.0,3,3.0,2,5.0,Excellent,No,No,No,2024,66.6,13.32
+SKR-1818,Old Sukkur,10.0,3,3.0,2,16.0,Average,Yes,No,Yes,2026,111.9,11.19
+SKR-2106,Shikarpur Road,5.0,3,2.0,2,5.0,,No,No,No,2025,54.7,10.94
+SKR-1070,Barrage Colony,5.0,3,3.0,2,21.0,Average,No,No,No,2025,81.4,16.28
+SKR-1809,Rohri,7.0,3,2.0,2,14.0,Excellent,Yes,No,No,2024,63.3,9.04
+SKR-1012,Rohri,20.0,6,6.0,3,4.0,Excellent,Yes,No,No,2026,248.0,12.4
+SKR-1145,Rohri,8.0,3,3.0,1,6.0,,No,Yes,No,2024,67.2,8.4
+SKR-1918,Old Sukkur,5.0,3,3.0,2,4.0,Good,No,No,Yes,2024,54.9,10.98
+SKR-1640,Barrage Colony,5.0,3,2.0,1,28.0,Average,Yes,No,No,2024,65.8,13.16
+SKR-1177,Old Sukkur,8.0,3,2.0,2,18.0,Poor,No,No,No,2024,56.3,7.04
+SKR-1995,Military Road,6.0,3,2.0,1,19.0,Poor,No,No,No,2024,63.3,10.55
+SKR-1441,Shikarpur Road,6.0,3,3.0,1,17.0,Average,No,No,No,2025,53.6,8.93
+SKR-1522,Rohri,10.0,6,5.0,1,15.0,Average,Yes,No,No,2024,88.8,8.88
+SKR-2005,Shikarpur Road,10.0,4,3.0,2,8.0,Excellent,Yes,No,No,2024,128.1,12.81
+SKR-1144,Barrage Colony,6.0,2,2.0,2,19.0,Average,Yes,No,No,2024,77.3,12.88
+SKR-1754,Bunder Road,7.0,4,3.0,1,,Poor,Yes,No,No,2024,90.6,12.94
+SKR-1520,Military Road,4.0,3,2.0,2,16.0,Poor,Yes,No,No,2026,59.6,14.9
+SKR-1823,Bunder Road,10.0,3,3.0,2,13.0,Average,Yes,No,Yes,2026,232.5,23.25
+SKR-1429,Rohri,20.0,6,5.0,2,11.0,Excellent,Yes,Yes,No,2026,235.0,11.75
+SKR-1613,Old Sukkur,20.0,8,8.0,1,18.0,Average,Yes,Yes,No,2026,186.9,9.35
+SKR-2033,Military Road,5.0,2,1.0,1,2.0,Excellent,Yes,No,Yes,2026,128.0,25.6
+SKR-1157,Old Sukkur,5.0,3,2.0,2,5.0,Average,No,No,Yes,2025,49.6,9.92
+SKR-1540,Shikarpur Road,6.0,1,1.0,2,1.0,Good,Yes,No,No,2026,82.5,13.75
+SKR-1462,Airport Road,12.0,5,5.0,1,15.0,Poor,Yes,No,Yes,2025,132.6,11.05
+SKR-1577,AIRPORT ROAD,8.0,5,5.0,1,8.0,Excellent,Yes,No,Yes,2026,161.6,20.2
+SKR-1256,Old Sukkur,15.0,6,5.0,1,22.0,Average,Yes,No,Yes,2024,126.1,8.41
+SKR-1980,Shikarpur Road,5.0,3,3.0,1,20.0,Good,Yes,No,No,2025,57.3,11.46
+SKR-2007,Rohri,7.0,4,3.0,1,5.0,Good,No,No,No,2026,68.9,9.84
+SKR-1561,Rohri,5.0,3,3.0,2,12.0,Excellent,Yes,No,Yes,2024,55.0,11.0
+SKR-1209,Rohri,6.0,2,2.0,2,38.0,Poor,No,No,No,2024,36.6,6.1
+SKR-1911,Military Road,800.0,4,4.0,1,10.0,Average,Yes,No,Yes,2025,126.8,15.85
+SKR-1002,Shikarpur Road,6.0,4,4.0,1,18.0,Good,Yes,No,Yes,2026,92.8,15.47
+SKR-1270,Airport Road,5.0,3,2.0,1,21.0,Poor,No,No,No,2024,53.4,10.68
+SKR-1266,Bunder Road,4.0,2,1.0,2,6.0,Poor,Yes,No,No,2024,56.6,14.15
+SKR-1915,Airport Road,12.0,4,3.0,1,21.0,Poor,Yes,No,Yes,2024,1109.0,9.24
+SKR-1231,Military Road,3.0,2,2.0,1,5.0,Good,No,No,No,2025,50.2,16.73
+SKR-2193,Shikarpur Road,15.0,5,4.0,2,12.0,Average,No,No,Yes,2024,153.1,10.21
+SKR-2189,Shikarpur Road,8.0,4,4.0,2,21.0,Excellent,Yes,No,No,2025,97.3,12.16
+SKR-1865,Old Sukkur,10.0,4,3.0,3,6.0,Average,No,No,No,2024,93.2,9.32
+SKR-2067,Barrage Colony,12.0,4,3.0,1,16.0,Average,Yes,No,No,2025,166.2,13.85
+SKR-1874,Military Road,4.0,3,3.0,1,25.0,Average,No,No,No,2025,57.0,14.25
+SKR-2078,Military Road,15.0,6,5.0,2,3.0,Good,Yes,No,No,2025,289.9,19.33
+SKR-1399,Shikarpur Road,5.0,4,3.0,1,5.0,Poor,No,No,No,2026,50.9,10.18
+SKR-2199, Military Road ,12.0,5,4.0,2,10.0,Good,Yes,No,No,2024,178.1,14.84
+SKR-1046,Airport Road,12.0,4,3.0,2,10.0,Average,Yes,No,No,2025,150.6,12.55
+SKR-1162,Airport Road,7.0,3,3.0,2,5.0,Excellent,Yes,No,No,2025,129.0,18.43
+SKR-1992,Rohri,15.0,5,4.0,2,19.0,Poor,No,No,Yes,2026,122.5,8.17
+SKR-1728,Shikarpur Road,4.0,2,2.0,2,13.0,Excellent,No,Yes,No,2025,52.7,13.18
+SKR-1630,Barrage Colony,3.0,1,1.0,1,4.0,,No,No,No,2026,42.8,14.27
+SKR-1289,Airport Road,7.0,2,2.0,2,7.0,Average,Yes,No,No,2024,85.0,12.14
+SKR-2060,Airport Road,4.0,3,2.0,1,33.0,Good,Yes,No,No,2026,63.1,15.78
+SKR-2179,Military Road,6.0,3,3.0,2,6.0,Good,Yes,No,Yes,2025,128.5,21.42
+SKR-1576,Bunder Road,5.0,3,3.0,1,10.0,Good,No,No,No,2025,101.4,20.28
+SKR-1851,Shikarpur Road,4.0,3,2.0,1,6.0,Average,No,No,No,2024,46.2,11.55
+SKR-1912,Bunder Road,7.0,3,3.0,1,8.0,Average,No,No,No,2024,131.1,18.73
+SKR-1684,Shikarpur Road,5.0,2,2.0,1,24.0,Good,Yes,No,Yes,2024,55.2,11.04
+SKR-1933,Bunder Road,8.0,3,3.0,2,6.0,Average,Yes,No,No,2025,177.3,22.16
+SKR-1248,Military Road,7.0,2,2.0,1,5.0,Average,Yes,No,No,2026,149.3,21.33
+SKR-1477,Old Sukkur,5.0,3,3.0,2,7.0,Good,Yes,No,Yes,2024,62.1,12.42
+SKR-1086,Shikarpur Road,7.0,3,3.0,2,3.0,Excellent,Yes,No,No,2025,106.7,15.24
+SKR-1470,Barrage Colony,6.0,4,3.0,1,9.0,Excellent,No,No,No,2025,103.0,17.17
+SKR-1226,Barrage Colony,20.0,7,6.0,2,6.0,Good,Yes,No,Yes,2026,364.4,18.22
+SKR-1775,Bunder Road,15.0,6,6.0,1,24.0,Average,Yes,No,No,2025,287.7,19.18
+SKR-1332,Rohri,12.0,6,5.0,1,4.0,Average,Yes,No,No,2025,95.5,7.96
+SKR-1234,Airport Road,4.0,4,3.0,2,24.0,Poor,Yes,No,Yes,2025,58.5,14.62
+SKR-1589,Bunder Road,6.0,3,3.0,2,10.0,Good,No,No,No,2024,98.7,16.45
+SKR-1476,Old Sukkur,6.0,4,4.0,1,27.0,Average,Yes,No,No,2025,57.9,9.65
+SKR-1600,Military Road,12.0,4,4.0,1,9.0,Poor,Yes,Yes,No,2025,190.0,15.83
+SKR-1422,Airport Road,20.0,7,6.0,3,,Good,Yes,No,No,2025,328.3,16.42
+SKR-1183,Old Sukkur,15.0,5,4.0,2,24.0,Good,Yes,No,No,2026,136.9,9.13
+SKR-1989,Rohri,5.0,3,3.0,1,11.0,Good,No,Yes,No,2025,49.9,9.98
+SKR-2001,Old Sukkur,3.0,1,1.0,1,4.0,Good,No,No,No,2025,31.2,10.4
+SKR-1050,Airport Road,10.0,3,2.0,2,9.0,Average,Yes,No,No,2025,123.1,12.31
+SKR-2132,Rohri,8.0,3,2.0,1,12.0,Excellent,Yes,Yes,No,2024,73.3,9.16
+SKR-2030,Shikarpur Road,5.0,3,3.0,1,10.0,Excellent,No,Yes,No,2025,66.0,13.2
+SKR-1530,Rohri,8.0,4,3.0,1,,Poor,Yes,No,No,2025,61.0,7.62
+SKR-1487,Military Road,10.0,4,3.0,2,3.0,Excellent,Yes,No,No,2025,193.4,19.34
+SKR-1498,Barrage Colony,7.0,4,3.0,2,9.0,Good,Yes,No,No,2025,132.4,18.91
+SKR-1107,Shikarpur Road,5.0,2,2.0,1,18.0,Good,Yes,Yes,No,2025,65.5,13.1
+SKR-1444,Airport Road,3.0,1,1.0,2,8.0,Good,Yes,No,No,2026,46.7,15.57
+SKR-1647,Rohri,5.0,3,2.0,1,33.0,Average,No,No,No,2025,31.8,6.36
+SKR-2037,Military Road,4.0,2,2.0,1,10.0,Good,No,No,No,2024,71.3,17.82
+SKR-1727,Rohri,8.0,3,2.0,1,7.0,Excellent,Yes,No,No,2025,75.0,9.38
+SKR-1191,Military Road,4.0,3,2.0,1,22.0,Average,No,No,No,2025,63.7,15.92
+SKR-1283,Military Road,12.0,5,4.0,2,15.0,Average,Yes,No,Yes,2026,213.9,17.82
+SKR-1030,Barrage Colony,4.0,3,2.0,2,7.0,Good,No,No,No,2025,64.0,16.0
+SKR-1170,Airport Road,5.0,3,2.0,2,,Excellent,No,No,No,2026,97.2,19.44
+SKR-2002,Military Road,8.0,3,3.0,3,15.0,Good,No,No,No,2024,121.7,15.21
+SKR-1101,Old Sukkur,12.0,4,,1,37.0,Average,No,No,No,2025,87.5,7.29
+SKR-1198,Bunder Road,8.0,2,1.0,2,,Average,No,No,No,2024,147.6,18.45
+SKR-1496,Old Sukkur,5.0,3,2.0,1,20.0,Good,Yes,No,Yes,2024,47.9,9.58
+SKR-1648,Barrage Colony,3.0,1,1.0,2,10.0,Average,No,No,Yes,2024,48.8,16.27
+SKR-1988,Rohri,15.0,6,6.0,2,20.0,Good,Yes,Yes,No,2024,126.2,8.41
+SKR-1045,Bunder Road,15.0,6,5.0,2,8.0,Good,Yes,No,Yes,2026,361.4,24.09
+SKR-1711,Military Road,6.0,3,3.0,2,35.0,Excellent,No,No,No,2026,120.1,20.02
+SKR-1374,Airport Road,7.0,4,4.0,2,7.0,Good,Yes,No,Yes,2024,103.2,14.74
+SKR-1679,military road,7.0,2,1.0,1,15.0,Good,No,No,No,2025,115.2,16.46
+SKR-1567,Rohri,3.0,2,1.0,2,27.0,Poor,Yes,No,Yes,2026,26.8,8.93
+SKR-1848,Barrage Colony,7.0,3,3.0,2,8.0,Good,No,No,Yes,2024,113.1,16.16
+SKR-1461,Old Sukkur,7.0,4,4.0,1,17.0,Average,Yes,Yes,Yes,2025,74.4,10.63
+SKR-1040,Barrage Colony,7.0,3,3.0,2,7.0,Good,No,No,Yes,2024,118.3,16.9
+SKR-1435,Military Road,5.0,4,4.0,1,43.0,Average,No,No,No,2025,65.7,13.14
+SKR-1974,Military Road,10.0,4,4.0,2,29.0,Average,Yes,No,No,2024,131.4,13.14
+SKR-2008,MILITARY ROAD,5.0,3,2.0,2,18.0,Average,Yes,No,No,2026,87.1,17.42
+SKR-1457,Rohri,4.0,1,1.0,1,20.0,Poor,No,No,Yes,2026,22.8,5.7
+SKR-1261,Rohri,7.0,3,3.0,2,16.0,Average,Yes,No,Yes,2025,71.1,10.16
+SKR-1036,Rohri,5.0,2,2.0,1,13.0,Average,No,Yes,Yes,2025,42.9,8.58
+SKR-1828,Shikarpur Road,10.0,4,4.0,2,10.0,Good,Yes,No,No,2024,110.9,11.09
+SKR-1310,Military Road,3.0,4,3.0,2,16.0,Good,No,No,Yes,2026,61.5,20.5
+SKR-1277,Military Road,15.0,5,4.0,2,9.0,Average,Yes,No,No,2026,249.2,16.61
+SKR-1637,Shikarpur Road,7.0,2,1.0,1,,Good,No,No,No,2025,74.0,10.57
+SKR-1655,Rohri,3.0,2,2.0,1,14.0,Average,No,No,No,2025,24.1,8.03
+SKR-1623,Old Sukkur,6.0,3,3.0,1,8.0,Poor,Yes,No,Yes,2025,61.4,10.23
+SKR-1845,Shikarpur Road,7.0,4,3.0,3,10.0,Excellent,No,No,No,2026,100.7,14.39
+SKR-1394,Barrage Colony,10.0,5,4.0,2,15.0,Average,No,Yes,Yes,2025,151.9,15.19
+SKR-1108,Old Sukkur,4.0,3,2.0,1,3.0,Average,Yes,No,No,2025,44.2,11.05
+SKR-1350,Old Sukkur,5.0,2,1.0,2,9.0,Good,No,No,No,2025,48.8,9.76
+SKR-1525,Barrage Colony,3.0,2,1.0,2,11.0,Excellent,No,No,No,2025,53.5,17.83
+SKR-1785,Bunder Road,20.0,8,7.0,2,24.0,Poor,Yes,No,No,2026,320.8,16.04
+SKR-1048,Bunder Road,4.0,2,1.0,2,14.0,Good,No,No,No,2025,78.4,19.6
+SKR-1204,Old Sukkur,4.0,2,,1,4.0,Excellent,Yes,No,No,2024,44.5,11.12
+SKR-1022,Airport Road,10.0,3,2.0,2,12.0,,Yes,Yes,No,2026,166.3,16.63
+SKR-1403,Barrage Colony,5.0,3,2.0,2,11.0,Average,Yes,No,No,2025,80.9,16.18
+SKR-2108,Military Road,5.0,4,,1,21.0,Average,No,No,No,2025,80.0,16.0
+SKR-2155,Shikarpur Road,10.0,4,4.0,1,3.0,Excellent,Yes,No,Yes,2026,130.1,13.01
+SKR-1990,Shikarpur Road,10.0,4,3.0,1,3.0,Excellent,Yes,No,No,2026,133.1,13.31
+SKR-1742,Barrage Colony,5.0,2,1.0,2,9.0,,No,No,Yes,2026,75.7,15.14
+SKR-2148,Barrage Colony,3.0,3,2.0,1,28.0,Average,No,No,No,2025,40.8,13.6
+SKR-1034,Shikarpur Road,10.0,5,4.0,2,21.0,Average,No,No,No,2025,90.3,9.03
+SKR-1788,Rohri,4.0,2,2.0,2,27.0,Good,Yes,No,No,2025,42.2,10.55
+SKR-1924,Rohri,10.0,6,5.0,1,16.0,Average,Yes,No,No,2026,88.9,8.89
+SKR-2044,Old Sukkur,20.0,8,7.0,1,,Good,Yes,Yes,No,2025,205.5,10.28
+SKR-2168,Rohri,3.0,1,1.0,2,2.0,Good,No,No,No,2025,29.2,9.73
+SKR-1580,Shikarpur Road,5.0,2,2.0,2,12.0,Good,No,No,Yes,2026,67.2,13.44
+SKR-1482,Barrage Colony,6.0,4,3.0,1,9.0,Average,Yes,No,No,2025,99.0,16.5
+SKR-1932,Shikarpur Road,20.0,7,7.0,2,3.0,Average,Yes,No,No,2026,237.5,11.88
+SKR-1357,Barrage Colony,5.0,3,3.0,1,8.0,Average,No,No,No,2025,60.5,12.1
+SKR-1760,Old Sukkur,10.0,4,4.0,1,8.0,Good,Yes,Yes,No,2024,105.6,10.56
+SKR-1093,Rohri,6.0,3,3.0,2,19.0,Good,No,No,Yes,2025,61.9,10.32
+SKR-1804,Barrage Colony,20.0,6,6.0,2,6.0,Good,Yes,No,Yes,2025,350.2,17.51
+SKR-1746,Airport Road,8.0,4,3.0,1,6.0,Good,No,No,Yes,2024,110.7,13.84
+SKR-1280,Barrage Colony,3.0,2,2.0,2,19.0,Average,No,No,Yes,2025,52.4,17.47
+SKR-1765,Rohri,4.0,3,2.0,1,21.0,Good,Yes,No,No,2024,35.8,8.95
+SKR-1605,Old Sukkur,6.0,2,1.0,2,11.0,Good,Yes,No,No,2025,62.6,10.43
+SKR-2200,Military Road,7.0,2,2.0,2,12.0,Good,Yes,No,Yes,2025,129.7,18.53
+SKR-1401,Bunder Road,10.0,5,4.0,2,13.0,Average,No,No,Yes,2026,219.0,21.9
+SKR-1258,Rohri,10.0,3,3.0,1,5.0,Good,No,No,No,2025,80.9,8.09
+SKR-1945,Military Road,10.0,4,3.0,2,26.0,Good,Yes,No,Yes,2025,147.1,14.71
+SKR-2097,Old Sukkur,10.0,4,3.0,1,2.0,Average,Yes,Yes,No,2024,90.6,9.06
+SKR-2162,BUNDER ROAD,10.0,4,4.0,1,13.0,Average,Yes,No,Yes,2025,190.6,19.06
+SKR-1495,Old Sukkur,10.0,4,3.0,1,7.0,Average,Yes,No,No,2024,78.0,7.8
+SKR-1773,Shikarpur Road,4.0,2,1.0,1,,Excellent,No,No,No,2026,46.8,11.7
+SKR-1551,Rohri,4.0,3,3.0,1,22.0,Average,No,Yes,No,2025,33.9,8.48
+SKR-1202,Shikarpur Road,10.0,3,3.0,3,38.0,Poor,No,No,No,2026,93.3,9.33
+SKR-1313,Airport Road,12.0,5,4.0,2,8.0,Excellent,Yes,No,No,2026,217.6,18.13
+SKR-1291,Barrage Colony,10.0,4,3.0,3,25.0,Average,No,No,Yes,2026,161.8,16.18
+SKR-1764,Shikarpur Road,5.0,3,3.0,2,5.0,Good,Yes,No,No,2025,70.1,14.02
+SKR-2137,Shikarpur Road,7.0,4,4.0,1,10.0,Good,No,Yes,No,2025,87.5,12.5
+SKR-1950,Bunder Road,5.0,4,4.0,2,8.0,Average,Yes,No,No,2024,103.1,20.62
+SKR-1184,Rohri,5.0,3,3.0,1,9.0,Good,No,No,No,2025,47.1,9.42
+SKR-2177,Old Sukkur,5.0,2,2.0,2,8.0,Good,No,No,No,2025,48.4,9.68
+SKR-2069,Military Road,8.0,4,4.0,2,5.0,Good,Yes,No,No,2025,165.0,20.62
+SKR-2031,Bunder Road,7.0,3,3.0,2,11.0,Average,No,No,No,2025,127.3,18.19
+SKR-1251,Rohri,6.0,2,1.0,1,33.0,Poor,Yes,No,No,2026,31.4,5.23
+SKR-1824,Old Sukkur,4.0,2,1.0,2,4.0,Excellent,Yes,Yes,Yes,2025,54.4,13.6
+SKR-2100,Military Road,3.0,2,1.0,1,6.0,Average,No,Yes,No,2025,49.7,16.57
+SKR-1941,Shikarpur Road,5.0,2,1.0,2,8.0,Average,No,No,Yes,2025,47.4,9.48
+SKR-1392,Barrage Colony,6.0,3,2.0,1,16.0,Average,Yes,Yes,No,2024,89.2,14.87
+SKR-2093,Barrage Colony,8.0,3,2.0,2,17.0,Good,No,No,Yes,2025,115.6,14.45
+SKR-2192,Barrage Colony,8.0,3,3.0,2,1.0,Good,Yes,No,No,2026,163.5,20.44
+SKR-1905,Military Road,5.0,3,2.0,1,14.0,Average,Yes,No,No,2026,77.2,15.44
+SKR-1731,AIRPORT ROAD,3.0,1,1.0,1,25.0,Average,No,No,No,2026,32.4,10.8
+SKR-1555,Shikarpur Road,7.0,3,2.0,2,4.0,Average,No,Yes,No,2026,96.3,13.76
+SKR-1367,Old Sukkur,5.0,2,2.0,2,3.0,Excellent,No,No,Yes,2025,61.3,12.26
+SKR-1346,Airport Road,8.0,3,3.0,1,9.0,Good,Yes,No,Yes,2024,112.0,14.0
+SKR-1536,Military Road,8.0,4,3.0,3,19.0,Average,Yes,No,Yes,2024,140.9,17.61
+SKR-1665,Rohri,15.0,5,4.0,1,10.0,Good,Yes,No,Yes,2026,162.7,10.85
+SKR-1920,Old Sukkur,20.0,8,8.0,2,,Average,Yes,No,Yes,2024,169.2,8.46
+SKR-1212,Airport Road,12.0,5,5.0,2,12.0,Average,Yes,No,No,2024,159.5,13.29
+SKR-1503,Rohri,6.0,3,2.0,1,28.0,Average,No,No,Yes,2025,40.9,6.82
+SKR-1538,Military Road,6.0,1,1.0,2,18.0,Average,Yes,Yes,Yes,2026,111.4,18.57
+SKR-1176,Military Road,10.0,3,2.0,2,9.0,Average,Yes,Yes,No,2026,197.8,19.78

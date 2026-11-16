@@ -23,6 +23,7 @@ The model uses property details such as location, area, bedrooms, bathrooms, hou
 - Matplotlib
 - Seaborn
 - Scikit-learn
+- Streamlit
 - Joblib
 
 ## Project Workflow
@@ -64,9 +65,9 @@ The model achieved an R² score of 0.960 on the test set. These results apply to
 |---|---|
 | `Houseing Price.ipynb` | Complete Jupyter Notebook |
 | `sukkur_house_prices.csv` | Dataset |
-| `house_price_model.joblib` | Saved trained model (generated when the notebook runs) |
+| `app.py` | Streamlit web application |
+| `house_price_model.joblib` | Saved trained preprocessing and prediction pipeline |
 | `README.md` | Project documentation |
-
 ## How to Run
 
 1. Clone or download this repository.
@@ -79,6 +80,39 @@ pip install pandas numpy matplotlib seaborn scikit-learn joblib
 3. Keep the notebook and CSV dataset in the same folder.
 4. Open the notebook in Jupyter Notebook or Google Colab.
 5. Run the cells from top to bottom.
+
+
+## Streamlit Web Application
+
+This project also includes a Streamlit application that allows users to predict house prices by entering property details.
+
+### Features
+- Select a Sukkur location.
+- Enter area, bedrooms, bathrooms, floors, and house age.
+- Select property condition and additional features.
+- Get an estimated house price in lakh rupees.
+
+### Run the Application
+
+1. Install the required libraries:
+
+   ```bash
+   pip install streamlit pandas scikit-learn joblib
+   ```
+
+2. Make sure `app.py` and `house_price_model.joblib` are in the same folder.
+
+3. Open the terminal in the project folder.
+
+4. Run:
+
+   ```bash
+   python -m streamlit run app.py
+   ```
+
+5. Open the local URL displayed in the terminal.
+
+**Note:** Predictions are educational estimates based on a course practice dataset, not verified market valuations.
 
 ## Learning Outcomes
 - Understanding regression problems.

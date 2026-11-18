@@ -4,6 +4,15 @@ A Machine Learning project that recognizes handwritten digits (0–9) using the 
 
 The project includes model training, performance evaluation, image preprocessing, and an interactive Streamlit web application.
 
+<pre>
+🚀 LIVE DEMO
+</pre>
+
+### 👉 [Click Here to Try the Live Application](https://mnist-digit-recognition-erum.streamlit.app/)
+
+---
+
+A Machine Learning project that recognizes handwritten digits (0–9) using the MNIST dataset and a Support Vector Machine (SVM) classifier.
 ## Project Overview
 
 The objective is to build a multi-class classification model that can recognize handwritten digits from images.

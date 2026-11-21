@@ -2,7 +2,7 @@
 
 [![Live Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://customer00segmentation.streamlit.app/)
 
-**Try the live app:** https://customer00segmentation.streamlit.app/
+**Try the live app:**https://customer0segmentationai.streamlit.app/
 
 ## Project Overview
 
